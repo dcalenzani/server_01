@@ -1,0 +1,13 @@
+{% extends 'esp32_dropplet/base.html' %}
+
+{% block title %}index{% endblock %}
+
+{% block content %}
+  <h1>Hello, you are in the index</h1>
+  <ul>
+  <li><a href="{% url 'esp32_dropplet:dashboard' %}">Dashboard</a></li>
+  <li><a href="{% url 'esp32_dropplet:monitor' %}">Monitor</a></li>
+  <li><a href="{% url 'esp32_dropplet:about' %}">About</a></li>
+  <li><a href="{% url 'esp32_dropplet:downloads' %}">downloads</a></li>
+  </ul>
+{% endblock %}

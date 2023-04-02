@@ -1,0 +1,10 @@
+{% extends 'esp32_dropplet/base.html' %}
+
+{% block title %}about{% endblock %}
+
+{% block content %}
+  <h1>Hello, you are in the About area</h1>
+  <ul>
+  <li><a href="{% url 'esp32_dropplet:index' %}">Home</a></li>
+  </ul>
+{% endblock %}
