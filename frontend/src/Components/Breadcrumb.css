@@ -1,0 +1,9 @@
+.breadcrumb{
+    display: "flex";
+    flex-direction: "row";
+    justify-content: "space-between";
+    position: fixed;
+    right: 20px;
+    top: 20px;
+    z-index: 99;
+}
