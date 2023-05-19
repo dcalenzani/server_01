@@ -20,7 +20,7 @@ export default function Home({ allPostsData }) {
     <div className={styles.container}>
       <main>
       <h1 className={styles.title}>
-        Read about <Link href="/posts/suicidio">Suicidal Tendencies</Link>
+        Read about <Link href="/">Suicidal Tendencies</Link>
       </h1>
       <p className={styles.description}>
         This is a FOSS project, you will find documentation here <code>pages/index.js</code>
