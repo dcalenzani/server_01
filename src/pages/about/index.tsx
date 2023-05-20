@@ -1,4 +1,3 @@
-import Layout from '../../components/layout'
 import { about } from './posts'
 import Head from 'next/head'
 import Date from '../../components/date'
@@ -6,7 +5,7 @@ import utilStyles from '../../styles/utils.module.css'
 
 export default function Post({ about }) {
   return (
-    <Layout>
+    <>
       <Head>
         <title>{about.title}</title>
       </Head>
@@ -17,7 +16,7 @@ export default function Post({ about }) {
         </div>
         <div dangerouslySetInnerHTML={{ __html: about.contentHtml }} />
       </article>
-    </Layout>
+    </>
   )
 }
 
