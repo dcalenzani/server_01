@@ -5,7 +5,7 @@ import { latest } from '../api/dropplet/latest';
 import { soilSensor } from '@component/interfaces/Esp';
 
 
-const Home = ({ latest }) => {
+const Home = ({latest}) => {
   return (
     <>
       <Head>
@@ -16,7 +16,7 @@ const Home = ({ latest }) => {
       <main className={'flex min-h-screen flex-row justify-end'}>
         <div className='flex items-start relative flex-1 px-4.5'>
         {latest !== null && (
-          <Link href="/"> Humedad del Suelo: { latest }  </Link>
+          <Link href="/"> Humedad del Suelo: {latest} </Link>
           )}
         </div>
         <div className='flex flex-col items-end p-24'>
@@ -28,16 +28,4 @@ const Home = ({ latest }) => {
       </main>
     </>
   )}
-
-  export async function getServerSideProps() {
-    const res = await fetch('http://192.168.1.34:3000/api/latest')
-    const data = await res.json()
-
-    return {
-      props: {
-        latest: data.latest,
-      },
-    }
-  }
-
   export default Home;

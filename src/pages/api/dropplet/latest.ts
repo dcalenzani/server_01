@@ -2,7 +2,12 @@ import { NextApiRequest, NextApiResponse } from "next";
 import { conn } from "../../../utils/database";
 
 // eslint-disable-next-line import/no-anonymous-default-export
-export default async function (req: NextApiRequest, res: NextApiResponse) {
+
+export async function getData(){
+  
+}
+
+export default async function latest(req: NextApiRequest, res: NextApiResponse) {
   const { method, body } = req;
 
   switch (method) {
