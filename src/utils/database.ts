@@ -2,6 +2,7 @@ import { Pool } from "pg";
 
 let conn: any;
 
+//Update to your own credentials
 if (!conn) {
   conn = new Pool({
     user: "postgres",

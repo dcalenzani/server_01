@@ -1,7 +1,7 @@
 ---
 title: 'About myself'
 author: 'Daniel A.'
-description: 'Short about text from myself'
+subtitle: 'My works and beliefs'
 date: '2023-05-16'
 ---
 # A short manifesto about my work.
