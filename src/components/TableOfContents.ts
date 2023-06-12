@@ -1,10 +1,10 @@
 "use client";
 
-import React, { useEffect } from "react";
+import { useEffect } from "react";
 
 const TableOfContents = () => {
   useEffect(() => {
-    const headers = document.querySelectorAll("article.prose h2, article.prose h3");
+    const headers = document.querySelectorAll("article.prose h2");
 
     const generateTOC = () => {
       const tocContainer = document.getElementById("toc-main");
