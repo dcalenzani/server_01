@@ -9,7 +9,12 @@ const HomePage = () => {
   ));
 
   return (
-    <div className="flex-rows">
+    <div className="flex min-h-screen flex-col items-center justify-between p-24">
+
+      <div id="HomePseudoButton" className="static mb-6 text-xl lg:">
+        <a href="/">&#8962; Home</a> 
+      </div>
+
       <div className="fixed mt-5 bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
         <a
             className="flex place-items-center gap-2 p-8 pointer-events-auto lg:p-0"
@@ -26,10 +31,7 @@ const HomePage = () => {
               priority />
         </a>
       </div>
-      <div id="HomePseudoButton" className="top-0 mt-6 text-xl text-center">
-          <a href="/">&#8962; Home</a> 
-      </div>
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-3 p-4">
+      <div className="mb-32 grid text-center lg:mb-0 lg:grid-cols-4 lg:text-left">
           {postPreviews}
       </div>
     </div>

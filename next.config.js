@@ -11,9 +11,9 @@ module.exports = {
     remotePatterns: [
       {
         protocol: 'https',
-        hostname: 'drive.google.com',
+        hostname: 'i.postimg.cc',
         port: '',
-        pathname: '/file/d/**',
+        pathname: '/**',
       },
     ],
   },

@@ -40,6 +40,8 @@ const IndexRoute: React.FC<Props> = ({products}) => {
 
     return (
         <>
+        <main className="min-h-screen items-center justify-between p-24">
+
         <div id="logo" className="fixed mt-5 bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
             <a
                 className="flex place-items-center gap-2 p-8 pointer-events-auto lg:p-0"
@@ -56,19 +58,21 @@ const IndexRoute: React.FC<Props> = ({products}) => {
                 priority />
             </a>
         </div>
+
         <div id="HomePseudoButton" className="top-0 text-xl text-center pt-6">
           <a href="/" className="">&#8962; Home</a> 
         </div>
+
         <div className="mt-12 m-6 grid grid-auto-fit-lg gap-8">
             {products.map((product) => (
-            <div key={product.id} className="grid2-item text-white p-3 mr-2 ml-2 border border-purple-700 rounded-lg">
-                    <p/>{product.title}
-                    <p className="text-right pr-2">{parseCurrency(product.price)}</p>
+            <div key={product.id} className="grid text-white p-3 mx-2 gap-2 border border-purple-700 justify-center rounded-lg">
                     <Image src={product.image} 
-                        alt="Personal D.C logo"
-                        className="dark:invert"
+                        alt={product.description}
+                        className="dark:normal"
                         width={100}
                         height={24}/>
+                    <p/>{product.title}
+                    <p className="text-center">{parseCurrency(product.price)}</p>
                     <button onClick={() => setCart(cart => cart.concat(product))}
                         className="bg-purple-900 rounded-sm p-2 text-center hover:bg-purple-300 hover:text-gray-800">
                             Agregar
@@ -76,13 +80,14 @@ const IndexRoute: React.FC<Props> = ({products}) => {
             </div>
             ))}
         </div>
-        <div className="text-white text-right mt-10 bg-slate-900">
+        <div className="text-white text-right mb-32 my- 10 bg-slate-900">
         <Link href={`https://wa.me/51999888777?text=${encodeURIComponent(text)}`} isExternal>
         <button>
             Completar pedido ({cart.length} productos)
         </button>
         </Link>
         </div>
+        </main>
         </>
     );
 };
