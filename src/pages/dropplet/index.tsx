@@ -29,9 +29,8 @@ const Home = ({jsonData}) => {
       </Head>
 
      <div>
+      <div className="flex flex-col min-h-screen">
       <NavBar></NavBar>
-
-      <div className="flex flex-col">
         <div id="logo" className="fixed mt-5 bottom-0 left-0 flex h-48 w-full items-end justify-center bg-gradient-to-t from-white via-white dark:from-black dark:via-black lg:static lg:h-auto lg:w-auto lg:bg-none">
             <a
                 className="flex place-items-center gap-2 p-8 pointer-events-auto lg:p-0"
@@ -49,7 +48,7 @@ const Home = ({jsonData}) => {
             </a>
         </div>
         
-        <div className="">
+        <div>
           {jsonData !== null && (
             <h1> Humedad del Suelo: {jsonData[0].humidity} </h1>
             )}
