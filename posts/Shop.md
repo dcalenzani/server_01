@@ -7,13 +7,11 @@ date: '2023-06-12'
 
 # Small Shop
 
-My own iteration of an E-Commerce using NextJs, Tailwind and Typescript, adapting the code from [this video](https://www.youtube.com/watch?v=DgPcpte1eoA) when needed.
-
+My own iteration of an E-Commerce using NextJs, Tailwind and Typescript, adapting the code from [this video](https://www.youtube.com/watch?v=DgPcpte1eoA) when needed (most of it is a copy paste, but previous API work helps).
 Thanks a lot to Thirus for her video too, as [her responsive grid](https://www.youtube.com/watch?v=9aQ6nFMsbDs) was implemented in this project too!
 
-The final repository can be seen [here](https://github.com/dcalenzani)
-
-The Shop can be seen ['../src/pages/shop/index.html'](../shop)
+- The final repository can be seen [here](https://github.com/dcalenzani)
+- The Shop can be seen [here](../shop)
 
 ## Use scenarios
 
@@ -23,4 +21,4 @@ Well, in inspirition of this atrocity, and as argumented by Goncy on his video, 
 
 ## Caution
 
-This is a static site, its not actually connected to a database, and works since most bussinesses use whatsapp nowadays. However, safety and scalation will be a concern if you stay in this system for too long, but migrations could be done easily.
+This is a static site, its not actually connected to a database, and works since most small (MYPE) stores use whatsapp, specially in Latin America. However, safety and scalation will be a concern if you stay in this system for too long, but migrations could be done easily.

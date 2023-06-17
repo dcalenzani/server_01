@@ -4,7 +4,7 @@ import { useEffect } from "react";
 
 const TableOfContents = () => {
   useEffect(() => {
-    const headers = document.querySelectorAll("article.prose h2");
+    const headers = document.querySelectorAll("article.prose h1, article.prose h2");
 
     const generateTOC = () => {
       const tocContainer = document.getElementById("toc-main");
