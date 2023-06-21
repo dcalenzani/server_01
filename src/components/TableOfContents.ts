@@ -4,14 +4,14 @@ import { useEffect } from "react";
 
 const TableOfContents = () => {
   useEffect(() => {
-    const headers = document.querySelectorAll("article.prose h1, article.prose h2");
+    const headers = document.querySelectorAll("article.prose h2");
 
     const generateTOC = () => {
       const tocContainer = document.getElementById("toc-main");
       if (tocContainer) {
         headers.forEach((header) => {
           const headerText = header.textContent;
-          const slug = headerText!.replace(/\s+/g, "-").toLowerCase();
+          const slug = headerText!.replace(/\s+/g,"-").toLowerCase();
           const listItem = document.createElement("li");
           const link = document.createElement("a");
 

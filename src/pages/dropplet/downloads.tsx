@@ -1,11 +1,12 @@
+import Gauge from "@component/components/Gauge";
 import NavBar from "@component/components/NavBar";
 
 const Home = ({}) => {
     console.log("Downloads!")
     return (
-      <>
-      <NavBar/>
-      </>
+      <div>
+        <Gauge/>
+      </div>
     );
 };
 

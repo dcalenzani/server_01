@@ -43,7 +43,7 @@ const PostPage = (props: any) => {
         <div id="TableOfContents">
           <p className="text-left text-lg font-semibold mb-2 mt-1">Table of Contents:</p>
           <TableOfContents/>
-          <ul id="toc-main" className="list-group list-disc ml-2 text-left hover:font-black"></ul>
+          <ul id="toc-main" className="list-group list-disc ml-2 text-left [&>li:hover]:font-black"></ul>
         </div>
       </div>
 
@@ -54,8 +54,11 @@ const PostPage = (props: any) => {
         </a>
       </div>
 
-      <div id="HomePseudoButton" className="fixed bottom-3 left-3 text-xl justify-center bg-slate-900 opacity-90 border rounded-lg lg:text-right pt-3 hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2">
-        <a href="/posts" className="text-normal m-2">&#8962; All Posts</a> 
+      <div id="PostsButton" className="fixed bottom-3 left-3 text-lg justify-center bg-slate-900 opacity-90 border rounded-lg hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2">
+        <a href="/" className="text-normal m-2 block h-full w-full">&#8962; Home</a>
+      </div>
+      <div className="fixed top-0 text-xl justify-center w-full bg-slate-900 opacity-90 text-center hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2 lg:w-auto lg:left-0 lg:text-left">
+        <a href="/posts" className="text-normal m-2 block h-full w-full">All Posts</a> 
       </div>
 
       <div className="flex p-1">

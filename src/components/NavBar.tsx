@@ -61,7 +61,7 @@ return(
 		<nav className="relative px-4 py-4 flex justify-between items-center bg-neutral-900">
 
 			<a className="text-3xl font-bold leading-none" href="#">
-				<svg className="h-10" alt="logo" viewBox="0 0 10240 10240">
+				<svg className="h-10" viewBox="0 0 10240 10240">
 					<path xmlns=""></path>
 				</svg>
 			</a>
@@ -101,7 +101,7 @@ return(
 					</svg>
 				</li>
 				<li>
-					<a className="text-sm text-gray-400 hover:text-gray-500" href="#">
+					<a className="text-sm text-gray-400 hover:text-gray-500" href="/503">
 						Contact
 					</a>
 				</li>
@@ -117,7 +117,7 @@ return(
 			<nav className="fixed top-0 left-0 bottom-0 flex flex-col w-5/6 max-w-sm py-6 px-6 bg-white border-r overflow-y-auto">
 				<div className="flex items-center mb-8">
 					<a className="mr-auto text-3xl font-bold leading-none" href="#">
-						<svg className="h-12" alt="logo" viewBox="0 0 10240 10240">
+						<svg className="h-12" viewBox="0 0 10240 10240">
 							<path xmlns="http://www.w3.org/2000/svg" d=""></path>
 						</svg>
 					</a>
