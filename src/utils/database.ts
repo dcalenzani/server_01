@@ -5,11 +5,11 @@ let conn: any;
 //Update to your own credentials
 if (!conn) {
   conn = new Pool({
-    user: "postgres",
-    password: "postgres"||"",
-    host: "localhost",
-    port: 5432,
-    database: "server_01",
+    user: process.env.DB_USER,
+    password: process.env.DB_PASS,
+    host: process.env.DB_HOST,
+    port: 5432|| process.env.DB_PORT,
+    database: process.env.DB_DATABASE,
   });
 }
 

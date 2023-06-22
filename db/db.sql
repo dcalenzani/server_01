@@ -37,5 +37,5 @@ CREATE TABLE IF NOT EXISTS dht11(
 );
 
 INSERT INTO notes (title, description) VALUES ('First note', 'Content of my first note');
-INSERT INTO soilSensor (humidity ) VALUES (0.0);
+INSERT INTO soilSensor (humidity ) VALUES (0.76);
 INSERT INTO dht11 (temperature, humidity) VALUES (0.0, 0.0);
