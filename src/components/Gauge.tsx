@@ -1,21 +1,27 @@
 import { useEffect, useRef } from 'react';
 
-const Gauge = ({ value, setGaugeValue }) => {
-    const gaugeRef = useRef(null);
-  
+const Gauge = ({ value, setGaugeValue }:any) => {
+
+    const gaugeRef = useRef<HTMLDivElement | null>(null);
+
     useEffect(() => {
       const gauge = gaugeRef.current;
   
-      const updateGaugeValue = (value) => {
+      const updateGaugeValue = (value: number) => {
         if (value < 0 || value > 1) {
           return;
         }
-  
-        gauge.querySelector('.gauge__fill').style.transform = `rotate(${value / 2}turn)`;
-        gauge.querySelector('.gauge__data').textContent = `${Math.round(value * 100)}%`;
+        const fillElement = gauge?.querySelector('.gauge__fill') as HTMLDivElement | null;
+        const dataElement = gauge?.querySelector('.gauge__data') as HTMLDivElement | null;
+
+        if (fillElement && dataElement) {
+          dataElement.textContent = `${Math.round(value * 100)}%`;
+          fillElement.style.transform = `rotate(${value / 2}turn)`;
+        }
       };
-  
+
       updateGaugeValue(value);
+
     }, [value]);
 
     return (

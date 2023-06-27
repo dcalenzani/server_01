@@ -4,33 +4,34 @@ import Image from 'next/image';
 import NavBar from '@component/components/NavBar';
 import Gauge from '@component/components/Gauge';
 import { useEffect, useState } from 'react';
+import { soilSensor } from '@component/interfaces/sensors';
 
 export async function getServerSideProps(){
-  const jsonData = await getData();
+  const soilSensor = await getData();
   // Conversion of DateTime to Unix TimeStamp for handling
-  jsonData.map((x: { input: number; createdAt: number; }) => {
+  soilSensor.map((x: { input: number; createdAt: number; }) => {
     x.input = Math.floor(x.createdAt / 1000);
   })
   return {
-    props : { jsonData, }
+    props : { soilSensor, }
   }
 }
 
-const Home = ({jsonData}) => {
+const Home = ({soilSensor}:any) => {
 
   const [gaugeValue, setGaugeValue] = useState(0); // Initial gauge value
 
-  // Update the gauge value when jsonData changes
+  // Update the gauge value when soilSensor changes
   useEffect(() => {
-    if (jsonData !== null) {
-      const humidity = jsonData[0].humidity;
+    if (soilSensor !== null) {
+      const humidity = soilSensor[0].humidity;
       setGaugeValue(humidity);
     }
-  }, [jsonData]);
+  }, [soilSensor]);
   
-  const humidity = jsonData !== null ? jsonData[0].humidity : null;
+  const humidity = soilSensor !== null ? soilSensor[0].humidity : null;
 
-  console.log({jsonData})
+  console.log({soilSensor})
   return (
     <>
       <Head>
@@ -66,8 +67,8 @@ const Home = ({jsonData}) => {
           <Gauge value={gaugeValue} setGaugeValue={setGaugeValue}/>
           ) : null}
           <div className="flex flex-col items-center justify-between">
-            {jsonData !== null && (
-              <a href='#'> Humedad del Suelo: {jsonData[0].humidity} </a>
+            {soilSensor !== null && (
+              <a href='#'> Humedad del Suelo: {soilSensor[0].humidity} </a>
               )}
           </div>
         

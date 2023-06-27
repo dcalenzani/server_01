@@ -8,7 +8,7 @@ if (!conn) {
     user: process.env.DB_USER,
     password: process.env.DB_PASS,
     host: process.env.DB_HOST,
-    port: 5432|| process.env.DB_PORT,
+    port: 5432,
     database: process.env.DB_DATABASE,
   });
 }

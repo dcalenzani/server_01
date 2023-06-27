@@ -2,12 +2,20 @@ import React from "react";
 import { GetStaticProps } from "next";
 import {Product} from "../../interfaces/product";
 import api from "../api/products";
-import Link from "next/link";
 import Image from "next/image";
+import { useRouter } from "next/router";
 
 interface Props {
     products: Product[];
 }
+
+const handleExternalLink = (event: React.MouseEvent<HTMLAnchorElement>) => {
+    event.preventDefault();
+    const href = event.currentTarget.getAttribute("href");
+    if (href) {
+      window.open(href, "_blank");
+    }
+  };
 
 export const getStaticProps: GetStaticProps = async () => {
     const products = await api.list()
@@ -26,7 +34,7 @@ const IndexRoute: React.FC<Props> = ({products}) => {
         () =>
             cart
                 .reduce(
-                    (message, product) => message.concat(`* ${product.title} - $${product.price}\n`),``,
+                    (message, product) => message.concat(`* ${product.title} - $${product.price}\n`),'',
                 )
                 .concat(`\nTotal: ${cart.reduce((total, product) => total + product.price, 0)}`),[cart],
     )
@@ -94,11 +102,12 @@ const IndexRoute: React.FC<Props> = ({products}) => {
                 </div>
 
                 <div className="text-white text-right mb-32 my-10 bg-slate-900">
-                    <Link href={`https://wa.me/51971192413?text=${encodeURIComponent(text)}`} isExternal>
+                    <a href={`https://wa.me/51971192413?text=${encodeURIComponent(text)}`} 
+                    onClick={handleExternalLink}>
                         <button>
                             Completar pedido ({cart.length} productos)
                         </button>
-                    </Link>
+                    </a>
                 </div>
             </div>
         </div>
