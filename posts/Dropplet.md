@@ -5,10 +5,11 @@ subtitle: 'A FOSS project for watering plants and sharing growth information'
 date: '2023-05-16'
 ---
 # Dropplet is born
-Yeah, it is still small and relatively non innovative. The only real difference with smaller projects is the launching from an independent server, which was really troublesome and perhaps less efficient. However, Dropplet is born to be a tool for the people, and as such it need to work toward independency in every sense. In the current talk around technology few is said about the energy challenges and hardware inequalities in the field, specially when talking about data science in the public sphere. A free(er) world needs to have independent data sources for everyone, and why not start with something as easy as homegrowing plants?
 
-I saw many vids when making dropplet, specially on the sensors and type of communications involved, while this is still a prototype I expect it to grow into a free and open source for developing even bigger autonomous gardens. 
+Dropplet is a system designed for gathering and sharing data around plants, while tracking your watering and environmental values. It has the added function of automatic watering, based on reading of a soil humidity sensor. 
 
-An important part of Dropplet was making it closer to users so they could replicate it for their homes easily not being dependant on services like Firebase or other similar. 
+You'll find different projects with similar objectives. Dropplet however intends from the beggining to be a fully fledged ecosystem where gardeners and plant enthusiasts share their growth data with other fellows around the world.
 
-I thank this video for teaching me how to do a gauge in css, which was essential for displaying stuff without using more libraries (I'm getting tired of just downloading stuff withouth knowing what it does) https://www.youtube.com/watch?v=FnUkVcQ_3CQ
+# Current state of Dropplet
+
+The server works at a home level, but since the API is still closed to the public I'll rework the main page to show the project updates, circuit maps and other experiences.

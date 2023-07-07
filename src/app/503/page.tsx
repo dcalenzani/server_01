@@ -10,7 +10,6 @@ const HomePage = () => {
             </p>
             <div className="flex flex-row-reverse m-10 gap-32 [&>a]:p-7 [&>a]:rounded-lg [&>a]:border-neutral-700">
                 <a href="/" className="hover:border">Go home?</a>
-                <a href="/dropplet" className="hover:border">Go back?</a>
             </div>
         </div>
     </>

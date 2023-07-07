@@ -1,7 +1,7 @@
 ---
 title: 'Colores Ajenos'
 author: 'Daniel Calenzani.'
-subtitle: 'Call of Cthulhu scenario in the peruvian Rainforest'
+subtitle: 'Call of Cthulhu scenario in the peruvian Rainforest (IN SPANISH)'
 date: '2023-05-31'
 ---
 # COLORES AJENOS
