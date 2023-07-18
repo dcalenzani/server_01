@@ -22,10 +22,10 @@ export default function Contact() {
   };
 
   return (
-    <div>
-      <div className="flex flex-col items-center justify-center h-screen p-4">
-        <span className="flex text-center items-center justify-center m-10">
-          Thanks for reaching me! You can leave your name, e-mail, and a message for me. Fill the form below for contact. I hope you are not too uncomfortable with Meta and Whatsapp
+    <div className="min-h-screen">
+      <div className="flex flex-col items-center justify-center">
+             <span className="relative top-20 text-center items-center justify-center ml-10 mr-10">
+          Thanks for reaching me! You can leave your name, e-mail, and a message for me. Fill the form above for contact. I hope you are not too uncomfortable with Meta and Whatsapp
         </span>
         <form
           className="form"
@@ -44,138 +44,53 @@ export default function Contact() {
           }}
           onSubmit={handleFormSubmit}
         >
-          <h2
-            style={{
-              margin: "10px 0",
-              paddingBottom: "10px",
-              width: "180px",
-              color: "#78788c",
-              borderBottom: "3px solid #78788c",
-            }}
-          >
+          <h2 className="text-2xl pb-3 w-44 text-gray-700 border-b-2 border-gray-700">
             CONTACT ME
           </h2>
-          <p
-            style={{
-              margin: "28px 0 0",
-              fontSize: "14px",
-              color: "#5a5a5a",
-            }}
-          >
+          <p className="mt-4">
             <input
               placeholder="Name"
               value={name}
               onChange={(event) => setName(event.target.value)}
-              style={{
-                width: "100%",
-                padding: "10px",
-                boxSizing: "border-box",
-                background: "none",
-                outline: "none",
-                resize: "none",
-                border: "0",
-                fontFamily: "'Montserrat', sans-serif",
-                transition: "all .3s",
-                borderBottom: "2px solid #bebed2",
-              }}
+              className="w-full p-2 bg-transparent outline-none resize-none border-0 font-sans transition-all duration-300 border-b-2 border-gray-300"
             />
           </p>
-          <p
-            style={{
-              margin: "28px 0 0",
-              fontSize: "14px",
-              color: "#5a5a5a",
-            }}
-          >
+          <p className="mt-4">
             <input
               placeholder="E-mail"
               value={email}
               onChange={(event) => setEmail(event.target.value)}
-              style={{
-                width: "100%",
-                padding: "10px",
-                boxSizing: "border-box",
-                background: "none",
-                outline: "none",
-                resize: "none",
-                border: "0",
-                fontFamily: "'Montserrat', sans-serif",
-                transition: "all .3s",
-                borderBottom: "2px solid #bebed2",
-              }}
+              className="w-full p-2 bg-transparent outline-none resize-none border-0 font-sans transition-all duration-300 border-b-2 border-gray-300"
             />
           </p>
-          <p
-            style={{
-              margin: "28px 0 0",
-              fontSize: "14px",
-              color: "#5a5a5a",
-            }}
-          >
+          <p className="mt-4">
             <input
               placeholder="Message"
               value={message}
               onChange={(event) => setMessage(event.target.value)}
-              style={{
-                width: "100%",
-                padding: "10px",
-                boxSizing: "border-box",
-                background: "none",
-                outline: "none",
-                resize: "none",
-                border: "0",
-                fontFamily: "'Montserrat', sans-serif",
-                transition: "all .3s",
-                borderBottom: "2px solid #bebed2",
-              }}
+              className="w-full p-2 bg-transparent outline-none resize-none border-0 font-sans transition-all duration-300 border-b-2 border-gray-300"
             />
           </p>
-          <button
-            style={{
-              float: "right",
-              padding: "8px 12px",
-              margin: "8px 0 0",
-              fontFamily: "'Montserrat', sans-serif",
-              border: "2px solid #78788c",
-              background: "0",
-              color: "#5a5a6e",
-              cursor: "pointer",
-              transition: "all .3s",
-              textDecoration: "none",
-            }}
-            onClick={() => {
-              const text = `Nombre: ${name}\nEmail: ${email}\n Mensaje: ${message}`;
-              const whatsappUrl = `https://wa.me/51971192536?text=${encodeURIComponent(text)}`;
-              window.open(whatsappUrl, "_blank");
-            }}
+          <a
+            href={`https://wa.me/51971192413?text=${encodeURIComponent(
+              `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`
+            )}`}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="float-right py-2 px-4 mt-4 border-2 border-gray-700 text-gray-700 cursor-pointer hover:text-gray-900 transition-all duration-300"
           >
             Send Message
-          </button>
-          <div
-            style={{
-              position: "absolute",
-              top: "-70px",
-              right: "-100px",
-              background: "#50505a",
-              color: "#fff",
-              width: "280px",
-              padding: "16px 4px 16px 0",
-              borderRadius: "6px",
-              fontSize: "13px",
-              boxShadow: "10px 10px 40px -14px #000",
-            }}
-          >
-            <div style={{ display: "flex", alignItems: "center" }}>
-              <Phone
-                style={{ marginBottom: "10px", marginRight: "15px", marginLeft: "15px" }}
-              />
-              <span>+51 971 192 536</span>
-            </div>
-            <div style={{ display: "flex", alignItems: "center" }}>
-              <Mail style={{ marginRight: "15px", marginLeft: "15px" }} />
-              <span>dcalenzani@pucp.edu.pe</span>
-            </div>
+          </a>
+        <div className="absolute bottom-5 -right-10 bg-gray-800 text-white w-64 p-4 rounded text-sm shadow-md">
+          <div className="flex items-center">
+            <Phone className="mb-2 mr-3 ml-3" />
+            <span>+51 971 192 536</span>
           </div>
+          <div className="flex items-center">
+            <Mail className="mr-3 ml-3" />
+            <span>dcalenzani@pucp.edu.pe</span>
+          </div>
+        </div>
         </form>
       </div>
     </div>
