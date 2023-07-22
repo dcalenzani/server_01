@@ -15,7 +15,7 @@ export default function Home() {
     <>
       <main className="flex bg-zinc-300 dark:bg-zinc-950 min-h-screen flex-col items-center justify-between text-inherit dark:text-slate-50 p-24">
 
-        <div className='absolute left-8 lg:top-8 z-50'>
+        <div className='fixed right-8 pt-8 lg:top-5 z-50'>
           <DarkModeToggle></DarkModeToggle>
         </div>
 
