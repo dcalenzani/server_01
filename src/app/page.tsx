@@ -1,21 +1,26 @@
 import Image from 'next/image'
 import Link from 'next/link';
+import "@fontsource/open-sans"
 import { Metadata } from "next";
 import React from "react";
-import { Providers } from "./providers";
-import "@fontsource/open-sans"
+import DarkModeToggle from '@component/components/DarkToggle';
 
 export const metadata: Metadata = {
   title: "Calen.Dani",
-  description: "Pagina personal priorizando los proyectos FOSS"
+  description: "Pagina personal que los proyectos FOSS"
 };
 
 export default function Home() {
   return (
     <>
-      <main className="flex min-h-screen flex-col items-center justify-between p-24">
+      <main className="flex bg-zinc-300 dark:bg-zinc-950 min-h-screen flex-col items-center justify-between text-inherit dark:text-slate-50 p-24">
+
+        <div className='absolute left-8 lg:top-8 z-50'>
+          <DarkModeToggle></DarkModeToggle>
+        </div>
+
         <div className="z-10 my-2 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
-          <p className="fixed pl-2 left-0 top-0 flex w-full justify-center border-b border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:bg-gray-200 lg:p-4 lg:dark:bg-zinc-800/30">
+          <p className="fixed pl-2 left-0 top-0 flex w-full justify-center border-b bg-gradient-to-b pb-6 pt-8 backdrop-blur-2xl border-neutral-800 bg-zinc-400 dark:bg-zinc-800 dark:bg-opacity-75 bg-opacity-75 from-inherit lg:static lg:w-auto  lg:rounded-xl lg:border lg:p-4 lg:bg-accent1">
             Check Repo:&nbsp;
             <code className="font-mono font-bold">https://github.com/dcalenzani/server_01</code>
           </p>
@@ -39,7 +44,7 @@ export default function Home() {
 
         <div className="relative flex pt-1 pb-3 place-items-center before:absolute before:h-[300px] before:w-[480px] before:-translate-x-1/2 before:rounded-full before:bg-gradient-radial">
           <Image
-            className="relative dark:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale dark:grayscale-2"
+            className="relative drop-shadow-[0_0_0.3rem_#00000090] dark:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale dark:grayscale-2"
             src="/banner.jpg"
             alt="Picture of crosses above Lord of Muruhuay's temple in Tarma - Peru."
             width={720}
@@ -113,6 +118,7 @@ export default function Home() {
             </p>
           </Link>
         </div>
+
       </main>
     </>
   )

@@ -1,3 +1,4 @@
+import DarkModeToggle from "@component/components/DarkToggle";
 import getPostMetadata from "../../components/GetPostMetadata";
 import PostPreview from "../../components/PostPreview";
 import Image from 'next/image'
@@ -9,7 +10,10 @@ const HomePage = () => {
   ));
 
   return (
-    <div className="flex min-h-screen flex-col items-center justify-between p-24">
+    <div className="bg-zinc-300 dark:bg-zinc-950 text-inherit dark:text-slate-50 flex min-h-screen flex-col items-center justify-between p-24">
+      <div className='absolute left-8 lg:top-8'>
+          <DarkModeToggle></DarkModeToggle>
+      </div>
 
       <div id = "pseudoNavbar" className="z-10 my-2 w-full max-w-5xl items-center justify-between font-mono text-sm lg:flex">
 

@@ -22,9 +22,16 @@ export default function Contact() {
   };
 
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen bg-zinc-300 dark:bg-zinc-950 text-inherit dark:text-slate-50">
       <div className="flex flex-col items-center justify-center">
-             <span className="relative top-20 text-center items-center justify-center ml-10 mr-10">
+        
+        <div id="HomePseudoButton" className="fixed pl-2 left-0 top-0 flex w-full justify-center border-t border-gray-300 bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-2xl dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit lg:static lg:w-auto  lg:rounded-xl lg:bg-transparent lg:p-4 lg:dark:hover:bg-zinc-800/30">
+          <a href="/">
+            &#8962; Home
+          </a> 
+        </div>
+
+        <span className="relative top-20 text-center items-center justify-center ml-10 mr-10">
           Thanks for reaching me! You can leave your name, e-mail, and a message for me. Fill the form above for contact. I hope you are not too uncomfortable with Meta and Whatsapp
         </span>
         <form

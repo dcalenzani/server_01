@@ -23,7 +23,7 @@ const PostPage = (props: any) => {
   const slug = props.params.slug;
   const post = getPostContent(slug);
   return (
-    <div className="font-sans text-md flex flex-col">
+    <div className="font-sans text-md flex flex-col bg-zinc-300 dark:bg-zinc-950 text-inherit dark:text-slate-50">
       <div id="Sidebar" className="fixed flex-col overflow-auto top-0 h-full right-0 p-4 row-span-full text-center bg-gray-700 max-w-xs flex-rows hidden md:flex">
         <div className="text-left p-1 whitespace-normal mb-3">
           <h1 className="text-3xl mb-2 mt-7">
