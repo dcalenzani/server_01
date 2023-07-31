@@ -29,7 +29,7 @@ const PostPage = (props: any) => {
         <DarkModeToggle></DarkModeToggle>
       </div>
       <div id="Sidebar" className="fixed flex-col overflow-auto top-0 h-full right-0 p-4 row-span-full text-center bg-gray-400 dark:bg-gray-700 max-w-xs flex-rows hidden md:flex">
-        <div className="text-left p-1 whitespace-normal mb-3 mt-3">
+        <div className="text-left p-1 whitespace-normal mb-3 mt-10 lg:mt-20">
           <h1 className="text-3xl mb-2 mt-10">
             {post.data.title}
           </h1>
