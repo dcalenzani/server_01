@@ -38,7 +38,7 @@ const DarkModeToggle = () => {
   return (
     <button
       type="button"
-      className="focus:outline-none hover:bg-gray-200"
+      className="fixed right-8 mt-8 lg:top-5 z-50 bg-slate-300 dark:bg-slate-900 opacity-90 rounded-full focus:outline-none hover:bg-slate-200 dark:hover:bg-slate-700 p-3 hover:drop-shadow-[0_0_0.3rem_#ffffff70] dark:hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2"
       onClick={toggleDarkMode}
     >
       {isDarkMode ? <Moon /> : <Sun />}

@@ -40,7 +40,7 @@ _En orden de aparición_
 
 2. Romina Arevalo: Shaman Matsiguenka, criada bajo un padre cauteloso y una madre permisiva, aprendio las artes de brujo desde temprana edad, sabe viajar entre mundos tanto despierta como en sueños y conoce el bosque mejor que nadie, aunque no salga de Boca Manu desde el accidente con sus piernas.
 
-3. Padre Andrés: Sacerdote Dominico misionado en Boca Manu. Actualmente se encuentra en la aldea Yine antes de llegar a Kurtzlandia. Fue capturado por Kurtz, quién lo introdujo a la locura del color. Actualmente no presenta mutaciones visibles más que una piel similar a la corteza de un arbol en la zona de su pecho, la cual le causa mucha comezón la cuál debe aliviar rascándose con fuerza cada 2 minutos.
+3. Padre Andrés: Sacerdote Dominico misionado en Boca Manu. Actualmente se encuentra en la aldea Yine antes de llegar a Kurtzlandia. Fue capturado y secuestrado por Kurtz, quién lo introdujo a la locura del color. Actualmente vive sin corazon (en el sentido mas literal, su corazon se encuentra escondido en el sagrario de la capilla), lo que lo mantiene bajo control. En la mision Yine y mediante las eucaristias Andres promueve una vision casi protestante de "crear el cielo en la tierra". Habla sobre como el "Cristo de colores" en realidad existio y puede regresar, si tenemos la suficiente fe y realizamos el trabajo necesario. Aplaude las labores de Kurtz por "limpiar la selva de impurezas" e invita a los asistentes a asistir en Kurtzland con mano de obra. Esto es, claramente, solo un truco del color para quitarles fuerza vital. 
 
 4. Georg Kurtz: Cauchero, se encuentra en su campamento en aislamiento desde que las inversiones empezaron a retirar el capital del rio Madre de Dios. Desde hace años tiene tratos que lo favorecen inmensamente, la gran mayoria de ellos fueron ganados con violencia, pero otros en base a diplomacia muy elegante que precisaba de conocer las culturas locales. Esta controlado por el color y unido a el, si se presta atención (spot hidden) se vera que desde su tobillo una especie de tela de araña se mueve hacia el suelo, pero habria que quitarle toda la materia  a la idea de tela, porque solo el raro reflejo de la luz mantiene esa estructura. Por las noches necesita conectarse con el color nuevamente extendiendo este órgano por el suelo, lo que si produce transformaciones materiales en su cuerpo que se extienden a su entorno. 
 
@@ -62,7 +62,7 @@ Deberán realizar 1 tirada de PODER con la llegada del destello, para verificar 
 
 |Resultado | Efecto del color | Daño en cordura
 |------|-----| ------|
-| 1 | Cambio en el tono o forma del cielo. | 
+| 1 | Cambio en el tono o forma del cielo. |
 | 2 | Tormentas y oscurecimiento del cielo. |
 | 3 | Aparicion de animal herbivoro brillante |
 | 4 | Aparicion de animal carnivoro brillante |
@@ -153,11 +153,9 @@ Si la persona llega viva a Atalaya, los señores entregaran a los viajeros hojas
 
 ##### Vía Terrestre Paucartambo - Q'eros
 
-El camino a pie es traicionero, y cualquier accion rapida necesita una tirada de destreza para superar las pisadas en falso. Durante la ruta hay posibilidades de que 1D4 perros molesten a nuestros investigadores. Investigar sus cuerpos mostrara perdida de pelo y piel de un color extraño.
+El camino a pie es traicionero, y cualquier accion rapida necesita una tirada de destreza para superar las pisadas en falso. Durante la ruta hay posibilidades de que 1D4 perros molesten a nuestros investigadores. Investigar sus cuerpos mostrara perdida de pelo y piel de un color extraño. Con los retrasos, los personajes llegan a Q'eros por la noche, lo que los obliga a dormir alli, sin embargo, es un lugar seguro para dormir y al dia siguiente pueden recibir provisiones de los ayudantes del Capitan Marlow. Llegar a Atalaya desde Q'eros no toma mas de 1h, en el camino no encuentran problemas.
 
-##### Vía acuática Q'eros - Atalaya
-
-### Salida a Boca Manu  
+## Salida a Boca Manu  
 
 El dia 2 se enfoca en llegar de Atalaya a Boca Manu, donde nos han informado por cartas que encontraremos a Klutz. 
 
@@ -165,7 +163,7 @@ Charly estará guardando su carpa y sus cosas desde temprano. Si nuestros invest
 
 Si los investigadores preguntan por visitar al brujo, Charly afirma que prefiere no acompañarlos, sabe que hay otro puerto algo más lejos donde puede darles el encuentro si deciden visitar la cabaña, y les señala en un mapa la ubicación y la ubicación del puerto.
 
-### El Curandero de Atalaya
+## El Curandero de Atalaya
 
 El curandero de Atalaya es el sujeto con el que la pareja llevo a su perro la noche anterior para que fuese curado. Es conocido por Charly, aunque el nunca ha ido a su cabaña (las leyendas cuentan que algunos no regresan), quien puede confirmar que es un brujo "verdadero". Llegar a la cabaña del brujo es bastante fácil, desde afuera es una choza regular sin ningún tipo de cartel o seña. Desde la puerta se puede percibir con bastante fuerza el olor de incienso, palo santo y algo que se cocina. El humo impregna todo el ambiente y los investigadores no pueden ver más que las sombras de los objetos. Pedimos una tirada de habilidad para identificar las cosas dentro de la choza. 
 
@@ -196,15 +194,15 @@ Por otra parte, si le preguntamos por cómo llegar a Boca Manu
 
 Además, de manera gratuita, avisará de los troncos y caimanes cerca a Shintuya, y nos hablará del atajo hacia Boca Manu que ha producido el incremento de lluvias 
 
-### Ataque nativo
+## Ataque nativo
 
 Durante el transcurso de la ruta en el río existe la posibilidad de que los investigadores sean atacados desde las orillas por habitantes nativos del valle del Manu. Ellos tienen flechas y lanzas, pero tienen la fragilidad de un humano regular. Ninguno de ellos está realmente afectado por el color como para sobrevivir sobrenaturalmente.
 
-### Shintuya y el atajo
+## Shintuya y el atajo
 
 Shintuya está devastada por las lluvias y el caucho. Llegar al campamento ya es sumamente difícil debido a la cantidad de troncos y caimanes en el camino, pero bastará con estar atento. El problema ocurre al llegar a Shintuya, que ha sido tomada por los caucheros, desde la costa no se ven nativos y al acercarse a la orilla los gritos en español de una manada de 1D4 hombres con armas de fuego. Ellos están presos de la locura y no escuchan la lógica de nuestros investigadores. Quieren capturarlos para llevarlos con Kurtz, pero se detendrán poco después de alejarse de Shintuya, ante la dificultad para navegar entre los troncos y caimanes
 
-### Boca Manu
+## Boca Manu
 
 Los forasteros serán recibidos en Boca Manu con relativa hostilidad de los habitantes locales. Estos tendrán sus armas en atención, pero no dispararán sin antes hacer preguntas. Quieren estar seguros de la cordura de los investigadores así mismo cómo sus intenciones. En Boca Manu vienen recibiendo constantes ataques de Kurtz desde hace ya varios meses, en la pequeña aldea solo quedan ancianas y niños. Después de hablar sobre sus propósitos se les pide que hablen con la curandera, quién vino desde una aldea lejana para ayudar a las personas de su clan.
 
@@ -212,10 +210,24 @@ Esta mujer es curandera y practica únicamente la magia curativa y defensiva. Au
 
 La mañana siguiente les enseñará a los forasteros cómo usar los huesos (ritual de aparición)
 
-### La mision Yine
+## La mision Yine
 
-Por los ataques constantes del color, la mayoria de personas se encuentran escondidas en sus hogares.
+Por los ataques constantes del color, la mayoria de personas se encuentran escondidas en sus hogares. Existe una capilla cerca a las casas construida por el Padre Andres. Actualmente el padre no se encuentra adentro de la capilla, pero dentro se pueden encontrar algunas pistas sobre la naturaleza del sacerdote y Kurtz.
 
-### Ingreso al Paititi
+>`La capilla yine es curiosamente alta comparada a otras casas de la localidad, ademas, de manera muy inusual, posee un vitral de casi 2m de alto detras del altar. Este vidrio posee todos los colores del arcoiris en cortes geometricos. Las figuras principales son hexagonos y rombos que asemejan flores locales. El brillo del sol que cruza por estos vidrios llena de una luz muy especial a todas las sillas para los feligreses. Al entrar, el olor a frutas y licor inunda las narices de los presentes, a quienes les marea este primer impacto`
 
-Conclusión - Impacto de lo arcano y lo humano
+1. En el sagrario se encuentra el corazon latiente del padre Andres. Si este se le devuelve al sacerdote junto con un encantamiento podra regresar a la normalidad.
+2. El vino de la iglesia esta producido con frutas mutantes, producto de la influencia del color. El cuarto trasero de la capilla tiene el espacio de fermentacion y produce el olor 
+3. Dentro de la biblia hay varios separadores de libros. Una tirada de biblioteca o similar revela .
+
+Todos los habitantes de la mision saben de las apariciones del color y de los cambios de las personas que van hacia la casa Kurtz. Las opiniones son divididas, ya que algunos creen que las personas se ven mas "ordenadas", pero a otros les preocupa el cambio en su piel y sus miradas perdidas.  Durante la noche, aquellos pocos pobladores Yine afectados por el color salen de sus casas a recibir la radiacion del ente intergalactico caido del cielo. 
+
+## El corazon de Kurtzlandia
+
+
+
+### El encuentro con Kurtz
+
+## Ingreso al Paititi
+
+## Conclusión - Impacto de lo arcano y lo humano
