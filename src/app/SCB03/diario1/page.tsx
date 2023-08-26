@@ -12,7 +12,7 @@ const App = () => {
   const fasterSpeed = 15;
 
   return (
-    <div className="text-green-300 font-mono m-2 p-5">
+    <div className="bg-slate-900 text-green-300 font-mono m-2 p-5">
       <div className='text-xl font-extrabold'><Typewriter text={HandoutTitle} speed={typingSpeed} loop={false}/></div>
       <div className='pt-7 pb-7'>
         <Typewriter text={Subtitle} speed={fasterSpeed} loop={false}/>

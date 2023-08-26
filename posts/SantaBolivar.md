@@ -58,9 +58,9 @@ Las secciones que componen la nave son:
 
 :Si usted es:|:Recomendamos maximizar su entrenamiento de:|
 "Capitan"| System Operations, Navigate, Zero-G
-"Teniente primero"|
+"Teniente primero"| Firearms, Computer Maintenance, Technical Repair
 "Teniente segundo\Medico"| Medicine, Psychology, Science
 "Alferez\Ingeniero"| Electrical Repair, Mechanical Repair, Science
 (Engineering)
-"Alferez\Investigacion"
-"Investigacion\agregado civil"|
+"Alferez\Investigacion" | Science (astronomy), Science (Physics),  Zero-G
+"Investigacion\agregado civil"| Library Use, Science (astronomy), Spot Hidden

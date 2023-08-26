@@ -13,7 +13,7 @@ const App = () => {
   const fastestSpeed = 5;
 
   return (
-    <div className="text-green-300 font-mono m-2 p-5">
+    <div className="bg-slate-900 text-green-300 font-mono m-2 p-5">
       <div className='text-green-700 pt-7 pb-7'>
         <Typewriter text={Mistery} speed={fastestSpeed} loop={true}/>
       </div>

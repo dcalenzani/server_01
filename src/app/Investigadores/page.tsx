@@ -42,16 +42,19 @@ const CharacterBuilder = () => {
   };
 
   return (
-    <div className='font-mono'>
+    <div className='font-mono bg-slate-900 text-green-300'>
       <h1 className='text-center m-3 p-7 text-xl font-bold'>Character Randomizer - Call of Cthulhu</h1>
-      <button className="m-3 p-3 bg-gray-800 border rounded-md" onClick={buildCharacter}>Build Character</button>
+
+      <a href='/SCB03' className="m-3 p-3 bg-gray-900 border rounded-md">Welcome Page</a>
+
+      <button className="m-3 p-3 bg-gray-900 border rounded-md" onClick={buildCharacter}>Build Character</button>
 
       <div className='m-3 p-2'>
 
-      <h2 className='pb-3 m-3text-xl'>Attributes</h2>
+      <h2 className='pb-3 m-3 text-xl'>Attributes</h2>
       <table className="border-collapse border w-full">
         <thead>
-            <tr className="bg-gray-200">
+            <tr className="bg-gray-800">
             <th className="border p-2">Attribute</th>
             <th className="border p-2">Value</th>
             </tr>
@@ -73,7 +76,41 @@ const CharacterBuilder = () => {
       </div>
       </div>
       <p className='font-bold text-center'> Values for skills are 1x70;2x60;3x50;3x40;4x(+20)</p>
-      <a href='/SCB03' className="m-3 p-3 bg-gray-800 border rounded-md">Welcome Page</a>
+      <div className='p-5 mt-3 text-center'>
+
+      <h2>Recommended Training</h2>
+
+      <table className='bg-gray-800 text-sm [&>th]:border [&>th]:rounded-md [&>tr]:border [&>tr]:rounded-md [&>td]:border [&>td]:p-2'>
+        <tr>
+          <th>Rank</th>
+          <th>Recommended Training</th>
+        </tr>
+        <tr>
+          <td>Capitan</td>
+          <td>System Operations, Navigate, Zero-G</td>
+        </tr>
+        <tr>
+          <td>Teniente primero</td>
+          <td>Firearms, Computer Maintenance, Technical Repair</td>
+        </tr>
+        <tr>
+          <td>Teniente segundo / Medico</td>
+          <td>Medicine, Psychology, Science</td>
+        </tr>
+        <tr>
+          <td>Alferez / Ingeniero</td>
+          <td>Electrical Repair, Mechanical Repair, Science (Engineering)</td>
+        </tr>
+        <tr>
+          <td>Alferez / Investigacion</td>
+          <td>Science (astronomy), Science (Physics), Zero-G</td>
+        </tr>
+        <tr>
+          <td>Investigacion / Agregado civil</td>
+          <td>Library Use, Science (astronomy), Spot Hidden</td>
+        </tr>
+      </table>
+      </div>
     </div>
   );
 };

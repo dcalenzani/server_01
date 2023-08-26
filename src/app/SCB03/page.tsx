@@ -7,9 +7,11 @@ import Typewriter from '../../components/Typewriter';
 const App = () => {
     const Title = "APRENDIZAJES DE LA MISION";
     const Subtitle = "BIENVENIDO A LA FRONTERA DEL COSMOS SantaCruz - Bolivar (SCB03)"
+    const back = "__volver" 
     const fastestSpeed = 35;
 return (
-    <div className="text-green-300 font-mono m-5 p-5 [&>code]:pt-7 [&>h1]:mb-4 [&>h1]:text-2xl [&>h1]:text-bold [&>h2]:text-md [&>h2]:mt-3 [&>h2]:mb-2 [&>h2]:font-bold [&>p]:text-justify [&>p]:text-green-500 [&>p]:mt-5">
+    <div className="bg-slate-900 text-green-300 font-mono m-5 p-5 [&>code]:pt-7 [&>h1]:mb-4 [&>h1]:text-2xl [&>h1]:text-bold [&>h2]:text-md [&>h2]:mt-3 [&>h2]:mb-2 [&>h2]:font-bold [&>p]:text-justify [&>p]:text-green-500 [&>p]:mt-5">
+    <a href='/Investigadores'><Typewriter text={back} speed={fastestSpeed} loop={false}/> </a>
     <h1><Typewriter text={Title} speed={fastestSpeed} loop={false}/> </h1> 
     <h2><Typewriter text={Subtitle} speed={fastestSpeed} loop={false}/></h2>
     <p><i>Nosotros, los Latinos, hemos logrado en conjunto superar las trabas de la velocidad luz y su impacto sobre el tiempo. En esta era de la civilizacion,la gravedad de las estrellas se aprovecha para reducir el tiempo (y la distancia) en los viajes mas extremos. Sin embargo, la tecnología aún es incipiente, y ustedes privilegiados del primer contacto son conscientes que las mecánicas de los viajes a través del &quot;horizonte de eventos&quot; están diseñadas para solo un sentido.</i></p>
