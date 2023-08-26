@@ -6,27 +6,35 @@ interface Attributes {
   [name: string]: number;
 }
 
+const shuffleArray = (array: any[]) => {
+  const shuffled = array.slice();
+  for (let i = shuffled.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+  }
+  return shuffled;
+};
+
 const CharacterBuilder = () => {
   const initialAttributePool = [40, 50, 50, 50, 60, 60, 70, 80];
-  const [attributePool, setAttributePool] = useState([...initialAttributePool]);
-
-  const [attributes, setAttributes] = useState({});
+  const [attributePool, setAttributePool] = useState<number[]>(initialAttributePool);
+  const [attributes, setAttributes] = useState<Attributes>({});
 
   const addAttributes = () => {
-    const attributeNames = ["Strength", "Constitution", "Size", "Dexterity", "Appearance", "Intelligence", "Power", "Education"];
+    const shuffledPool = shuffleArray(attributePool);
     const newAttributes: Attributes = {};
 
-    attributeNames.forEach(name => {
-      const randomIndex = Math.floor(Math.random() * attributePool.length);
-      const randomValue = attributePool[randomIndex];
-      newAttributes[name] = randomValue;
+    const attributeNames = ["Strength", "Constitution", "Size", "Dexterity", "Appearance", "Intelligence", "Power", "Education"];
 
-      // Create a new array with the random value removed
-      const newAttributePool = attributePool.slice(0, randomIndex).concat(attributePool.slice(randomIndex + 1));
-      setAttributePool(newAttributePool);
+    attributeNames.forEach(name => {
+      const randomValue = shuffledPool.pop();
+      if (randomValue !== undefined) {
+        newAttributes[name] = randomValue;
+      }
     });
 
     setAttributes(newAttributes);
+    setAttributePool(initialAttributePool); // Reset the attribute pool
   };
 
   const buildCharacter = () => {
@@ -57,8 +65,15 @@ const CharacterBuilder = () => {
             ))}
         </tbody>
       </table>
+      <div className='border rounded-md'>
+      <p className='font-bold text-center'> Move rate is always 8 for humans </p>
+      <p className='font-bold text-center'> Magic Points: Power / 10 </p>
+      <p className='font-bold text-center'> Sanity: Power </p>
+      <p className='font-bold text-center'> Luck: 3D6 * 5 </p> 
+      </div>
       </div>
       <p className='font-bold text-center'> Values for skills are 1x70;2x60;3x50;3x40;4x(+20)</p>
+      <a href='/SCB03' className="m-3 p-3 bg-gray-800 border rounded-md">Welcome Page</a>
     </div>
   );
 };
