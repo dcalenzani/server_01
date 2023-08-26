@@ -75,7 +75,7 @@ Emergencia final | 20 minutos | Tormenta de luz final, provocando la transformac
 Final boss |20 minutos| Pelea con Pablo o con Pablo y la amalgama. Si la amalgama es enfrentada por si sola entonces es una victoria que simplemente sera narrada sin lanzar dados de combate (si de cordura)
 Cierre |10 minutos|Desactivacion de la sesion, comentarios finales y explicaciones fuera de rol
 
-## NARRACION
+## Narracion
 
 Los científicos habían hecho un gran descubrimiento en los últimos meses. Primero el hallazgo de vida dentro del cinturon, luego el descubrimiento de completos ecosistemas. 
 
@@ -86,6 +86,10 @@ Las aparentes rocas que componian los colores tenian tambien cadenas similares a
 Hace unos dias, en investigacion del pozo 00: el más grande de todo el sistema; se identificaron a soldados de Chipre investigando los biomas. El encuentro del ecosistema más denso en alienígenas conocido por la humanidad hasta ahora tambien represento un encuentro con enemigos. Inmediatamente se tomaron medidas de control con los soldados chipriotas, lo que provoco 1 baja entre los soldados y la baja absoluta de la mision de chipre. Fueron tomadas las muestras necesarias del pozo 00 y se reposiciono a SantaCruz Bolivar en las proximidades.
 
 Hace 1 semana que se enviaron las alertas de intrusos dentro del perimetro de 1600 km de la nave. Pero debido a la baja densidad de la invasion, el control especifico fue dificil de realizar y los invasores penetraron el terreno.
+
+## Situacion actual
+
+En la nave habían 18 personas de la colonia latina, entre las que se encuentran 4 niños de 6, 5, 3 y 1 año. Hay también una madre gestante del grupo de los militares. Actualmente quedan 13 personas vivas, incluyendo a la madre y niños, dentro del edificio científico. Los militares en la nave son minoritarios, actualmente todos salieron hacia el puente principal tratando de restaurar el control sobre la nave. 
 
 Actualmente en la nave hay 8 soldados de Chipre, pero solo 6 de ellos estan aptos para el combate. Santa Cruz Bolivar se encuentra en la oscuridad total, mantiene las ventanas cerradas, esto es decision chipriota y no producto del protocolo de emergencia, pero Pablo y la nave insistiran en abrir las ventanas cuando los personajes interactuen con computadoras.
 
