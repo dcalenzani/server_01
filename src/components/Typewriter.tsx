@@ -3,9 +3,10 @@ import React, { useState, useEffect } from 'react';
 interface TypewriterProps {
   text: string;
   speed: number;
+  loop?: boolean; // Add a loop prop
 }
 
-const Typewriter: React.FC<TypewriterProps> = ({ text, speed }) => {
+const Typewriter: React.FC<TypewriterProps> = ({ text, speed, loop = true }) => {
   const [displayText, setDisplayText] = useState<string>('');
   const [currentIndex, setCurrentIndex] = useState<number>(0);
 
@@ -17,8 +18,11 @@ const Typewriter: React.FC<TypewriterProps> = ({ text, speed }) => {
       }, speed);
 
       return () => clearTimeout(timeoutId);
+    } else if (loop) { // Check if looping is enabled
+      setCurrentIndex(0); // Reset index to loop
+      setDisplayText(''); // Reset display text
     }
-  }, [currentIndex, speed, text]);
+  }, [currentIndex, speed, text, loop]);
 
   return <p>{displayText}</p>;
 };

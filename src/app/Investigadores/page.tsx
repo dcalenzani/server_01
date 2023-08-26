@@ -58,7 +58,7 @@ const CharacterBuilder = () => {
         </tbody>
       </table>
       </div>
-      <span className='m-10 font-bold'> Values for skills are 1x70;2x60;3x50;3x40;4x(+20)</span>
+      <p className='font-bold text-center'> Values for skills are 1x70;2x60;3x50;3x40;4x(+20)</p>
     </div>
   );
 };

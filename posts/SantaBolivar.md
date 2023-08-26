@@ -149,10 +149,11 @@ Al entrar los heroes deciden hacia que seccion de la nave ir, pero la puerta del
 - **Estación lidar**
     - Radar de Comunicaciones, 
 - **Propulsores**
-
+    - Nada, solo el tubo
 - **Bahia de ingenieria**
-
+    - Maquinas para manejar los tubos con radioactivos
 - **Planta nuclear**
+    - Motores nucleares
 
 Los experimentos en el laboratorio producen una pérdida de locura igual a 1D8/1D12
 
