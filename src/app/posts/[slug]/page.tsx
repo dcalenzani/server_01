@@ -4,6 +4,9 @@ import matter from "gray-matter";
 import getPostMetadata from "../../../components/GetPostMetadata";
 import TableOfContents from "../../../components/TableOfContents";
 import DarkModeToggle from "@component/components/DarkToggle";
+import Sidebar from "@component/components/Sidebar";
+import { Menu } from "react-feather";
+
 
 const getPostContent = (slug: string) => {
   const folder = "posts/";
@@ -28,6 +31,7 @@ const PostPage = (props: any) => {
       <div>
         <DarkModeToggle></DarkModeToggle>
       </div>
+      
       <div id="Sidebar" className="fixed flex-col overflow-auto top-0 h-full right-0 p-4 row-span-full text-center bg-gray-400 dark:bg-gray-700 max-w-xs flex-rows hidden md:flex">
         <div className="text-left p-1 whitespace-normal mb-3 mt-10 lg:mt-20">
           <h1 className="text-3xl mb-2 mt-10">
@@ -62,13 +66,13 @@ const PostPage = (props: any) => {
         <a href="/" className=" text-normal m-2 block h-full w-full">&#8962; Home</a>
       </div>
 
-      <div className="fixed top-0 text-xl justify-center w-full bg-slate-300 dark:bg-slate-900 opacity-90 text-center hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2 lg:left-0 lg:w-auto">
+      <div className="fixed top-0 text-xl justify-center w-full bg-slate-300 dark:bg-slate-900 opacity-90 text-left hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2 lg:left-3 lg:w-auto lg:pl-3">
         <a href="/posts" className="text-normal m-2 block h-full w-full">All Posts</a> 
       </div>
 
       <div className="flex p-1 mt-10">
         <article id="toc-container" 
-          className="prose prose-slate lg:text-xl dark:prose-invert p-9">
+          className="prose prose-slate overflow-auto lg:text-xl dark:prose-invert p-9">
           <Markdown className="md:mr-20">{post.content}</Markdown>
         </article>
       </div>
