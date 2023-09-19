@@ -42,12 +42,11 @@ const CharacterBuilder = () => {
   };
 
   return (
-    <div className='font-mono bg-slate-900 text-green-300'>
-      <h1 className='text-center m-3 p-7 text-xl font-bold'>Character Randomizer - Call of Cthulhu</h1>
-
-      <a href='/SCB03' className="m-3 p-3 bg-gray-900 border rounded-md">Welcome Page</a>
-
-      <button className="m-3 p-3 bg-gray-900 border rounded-md" onClick={buildCharacter}>Build Character</button>
+    <div className='font-mono bg-slate-900 text-green-300 bg-auto min-h-screen'>
+      <h1 className='text-center p-7 text-xl font-bold'>Character Randomizer - Call of Cthulhu</h1>
+      <div className="flex justify-center">
+        <button className='m-3 p-3 text-center bg-gray-900 border rounded-md' onClick={buildCharacter}>Build Character</button>
+      </div>
 
       <div className='m-3 p-2'>
 
@@ -68,49 +67,59 @@ const CharacterBuilder = () => {
             ))}
         </tbody>
       </table>
+
       <div className='border rounded-md'>
-      <p className='font-bold text-center'> Move rate is always 8 for humans </p>
-      <p className='font-bold text-center'> Magic Points: Power / 10 </p>
-      <p className='font-bold text-center'> Sanity: Power </p>
-      <p className='font-bold text-center'> Luck: 3D6 * 5 </p> 
+        <p className='font-bold text-center'> Move rate is always 8 for humans </p>
+        <p className='font-bold text-center'> Magic Points: Power / 10 </p>
+        <p className='font-bold text-center'> Sanity: Power </p>
+        <p className='font-bold text-center'> Luck: 3D6 * 5 </p> 
       </div>
+
       </div>
+      
       <p className='font-bold text-center'> Values for skills are 1x70;2x60;3x50;3x40;4x(+20)</p>
+      
       <div className='p-5 mt-3 text-center'>
 
-      <h2>Recommended Training</h2>
+        <h2>Recommended Training</h2>
 
-      <table className='bg-gray-800 text-sm [&>th]:border [&>th]:rounded-md [&>tr]:border [&>tr]:rounded-md [&>td]:border [&>td]:p-2'>
-        <tr>
-          <th>Rank</th>
-          <th>Recommended Training</th>
-        </tr>
-        <tr>
-          <td>Capitan</td>
-          <td>System Operations, Navigate, Zero-G</td>
-        </tr>
-        <tr>
-          <td>Teniente primero</td>
-          <td>Firearms, Computer Maintenance, Technical Repair</td>
-        </tr>
-        <tr>
-          <td>Teniente segundo / Medico</td>
-          <td>Medicine, Psychology, Science</td>
-        </tr>
-        <tr>
-          <td>Alferez / Ingeniero</td>
-          <td>Electrical Repair, Mechanical Repair, Science (Engineering)</td>
-        </tr>
-        <tr>
-          <td>Alferez / Investigacion</td>
-          <td>Science (astronomy), Science (Physics), Zero-G</td>
-        </tr>
-        <tr>
-          <td>Investigacion / Agregado civil</td>
-          <td>Library Use, Science (astronomy), Spot Hidden</td>
-        </tr>
-      </table>
+        <table className='bg-gray-800 text-sm [&>th]:border [&>th]:rounded-md [&>tr]:border [&>tr]:rounded-md [&>td]:border [&>td]:p-2'>
+          <tr>
+            <th>Rank</th>
+            <th>Recommended Training</th>
+          </tr>
+          <tr>
+            <td>Capitan</td>
+            <td>System Operations, Navigate, Zero-G</td>
+          </tr>
+          <tr>
+            <td>Teniente primero</td>
+            <td>Firearms, Computer Maintenance, Technical Repair</td>
+          </tr>
+          <tr>
+            <td>Teniente segundo / Medico</td>
+            <td>Medicine, Psychology, Science</td>
+          </tr>
+          <tr>
+            <td>Alferez / Ingeniero</td>
+            <td>Electrical Repair, Mechanical Repair, Science (Engineering)</td>
+          </tr>
+          <tr>
+            <td>Alferez / Investigacion</td>
+            <td>Science (astronomy), Science (Physics), Zero-G</td>
+          </tr>
+          <tr>
+            <td>Investigacion / Agregado civil</td>
+            <td>Library Use, Science (astronomy), Spot Hidden</td>
+          </tr>
+        </table>
+
       </div>
+      <div className='flex text-center justify-center flex-wrap'>
+        <a href='/SCB03' className="m-3 p-3 bg-gray-900 border rounded-md">Welcome Page</a>
+        <a href='/guardian' className="m-3 p-3 bg-gray-900 border rounded-md">Guardian Companion</a>
+      </div>
+
     </div>
   );
 };
