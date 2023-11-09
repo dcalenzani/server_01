@@ -6,15 +6,28 @@ date: '2023-05-31'
 ---
 # COLORES AJENOS
 
+## Introducción
+
+1903, han pasado 5 años desde que Carlos Fermín Fitzcarraldo murió. Un lustro bastó para realizar cambios profundos en el corazón del Manu, y su caída ha dejado un vacío de poder en la jerarquía estricta de la explotación cauchera. El barón del caucho arriesgo demasiado tratando de salvar a su íntimo amigo, Antonio de Vaca Díez, y aunque las circunstancias de su muerte son opacas (por lo menos), las transformaciones que provocó la caída de este barón son, por el contrario, de lo más claras.
+
+En el este, el trabajo de su vida, el Istmo de Fitzcarraldo, donde murieron cientos de indígenas construyendo las vías de transporte para barcos, rápidamente cae en el abandono, sin dueño y sin ley. Por el oeste, Nicolás Suárez, magnate boliviano, ha cerrado y monopolizado las rutas hacia Bolivia por la provincia de Santa Cruz y Beni. De pronto, los capataces de Fitzcarraldo se ven atrapados sin la posibilidad de sacar el preciado néctar de los árboles. 
+
+Indígenas Asháninka, conocidos en estos tiempos como campa, ante la ausencia de su principal explotador, no dudan en rebelarse y formar sus propias comunidades que se empiezan a denominar "Yine", grupos indígenas locales cómo los Matsiguenka y los Mashco-Piro se ven en una encrucijada ¿huir o defender sustierras hasta la muerte? Fitzcarraldo ya no está, es cierto, pero el espíritu de su cruzada aún aterroriza las almas que quedaron aisladas en el Manú.
+
+En el corazón del conflicto, un mesías se alza. El nombre de Kurtz resuena desde Ucayali hasta Urubamba, uno de los capataces más íntimos del barón mítico ha logrado integrarse a la vida amazónica de tal forma que, al menos visto desde afuera, no se le percibe precisamente como un explotador. Los pocos campas que vuelven al cerro de la sal lo describen cómo alguién "encantador" y al mismo tiempo "fuerte".
+
+Aunque muchos hombres en la frontera con Colombia y Brasil han empezado a abandonar sus inversiones caucheras debido a la desmonopolización producto del robo de semillas de árboles por los británicos e incluso Nicolás Suárez está invirtiendo ya en la búsqueda de oro; para Kurtz, abandonar sus tierras no es una opción.
+
 ## Resumen
 
-Con el fin de la primera década de este siglo interesantes cambios ocurren en la Amazonía. Fitzcarraldo, uno de los mayores explotadores del caucho en Perú, siente los vientos del cambio. Junto con su, ahora desaparecido de los anales de la historia, capataz Kurtz aplica implacable ley de trabajo en la amazonía. Durante años Kurtz fue conocido por haberse integrado con la vida local de tal forma que no se le percibía precisamente como un explotador. Nadie sabía describir bien cómo lo lograba, pero encontraban al hombre encantador y fuerte.
-
+Con el fin de la primera década de este siglo interesantes cambios ocurren en la Amazonía. Fitzcarraldo, uno de los mayores explotadores del caucho en Perú, siente los vientos del cambio. Junto con su, ahora desaparecido de los anales de la historia, capataz Kurtz aplica implacable ley de trabajo en la amazonía. Durante años Kurtz fue conocido por haberse
 Pero "Fitz", cómo lo llama Kurtz amigablemente, se ha dado cuenta que esas recientes plantaciones en colonias inglesas van a perjudicar al negocio. Cuando empieza a retirar a sus trabajadores, Kurtz se niega...
 
 Aunque las propiedades tienen ahora menor valor, siguen siendo bosques inmensos dignos de trabajo, y solo el valor de las embarcaciones podría comprarle al capataz una hacienda en el norte del país digna de cualquier baron. Pero llegar a sus territorios es un esfuerzo increíble por sí mismo. La ruta para ingresar al río Madre de Dios desde el Cusco aún no ha sido "descubierta" del todo, ahí es donde un radical inversionista aprovecha de viajar a Paucartambo con lo último de su crédito. Sabe de una mujer local que desde hace ya varios años posee su propia lancha y centro de expediciones, realizando ya varios viajes turísticos e incursiones a "las rutas de los indígenas de Klutz".
 
-## Personajes jugables
+## Investigadores
+
+_Nota: Los siguientes personajes son recomendaciones para un Quick Start en la campaña, o ideas generales de qué tipo de personas podrían estar interesadas en ingresar al Manú en búsqueda de Kurtz y su fortuna._ 
 
 1. Emprendedor: Un joven empresario, ultimo hijo de una familia adinerada, pero de una de las ramas con menos dinero. Es enviado a Madre de Dios en búsqueda de generar ingresos para su familia comprando las expediciones de Georg Klutz.
 
