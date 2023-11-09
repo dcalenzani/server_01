@@ -11,7 +11,7 @@ export default function Contact() {
     event.preventDefault();
 
     const text = `Name: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
-    const whatsappUrl = `https://wa.me/51971192413?text=${encodeURIComponent(text)}`;
+    const whatsappUrl = `https://wa.me/51971192536?text=${encodeURIComponent(text)}`;
 
     window.open(whatsappUrl, "_blank");
 
