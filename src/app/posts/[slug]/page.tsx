@@ -2,11 +2,9 @@ import fs from "fs";
 import Markdown from "markdown-to-jsx";
 import matter from "gray-matter";
 import getPostMetadata from "../../../components/GetPostMetadata";
-import TableOfContents from "../../../components/TableOfContents";
 import DarkModeToggle from "@component/components/DarkToggle";
-import Sidebar from "@component/components/Sidebar";
-import { Menu } from "react-feather";
-
+import Hamburguer from "@component/components/HamburguerMenu";
+import TableOfContents from "@component/components/TableOfContents";
 
 const getPostContent = (slug: string) => {
   const folder = "posts/";
@@ -28,56 +26,30 @@ const PostPage = (props: any) => {
   const post = getPostContent(slug);
   return (
     <div className="font-sans text-md flex flex-col bg-zinc-300 dark:bg-zinc-950 text-inherit dark:text-slate-50">
-      <div>
-        <DarkModeToggle></DarkModeToggle>
-      </div>
+        <div className="">
+          <DarkModeToggle></DarkModeToggle>
+        </div>
       
-      <div id="Sidebar" className="fixed flex-col overflow-auto top-0 h-full right-0 p-4 row-span-full text-center bg-gray-400 dark:bg-gray-700 max-w-xs flex-rows hidden md:flex">
-        <div className="text-left p-1 whitespace-normal mb-3 mt-10 lg:mt-20">
-          <h1 className="text-3xl mb-2 mt-10">
-            {post.data.title}
-          </h1>
-          <h2 className="text-1xl mb-2">
-            {post.data.subtitle}
-          </h2>
-          <h2 className="text-1xl text-slate-900 dark:text-slate-400 mb-2">
-            {post.data.author}
-          </h2>
-          <p className="text-slate-800 dark:text-slate-400 text-1xl mb-2">
-            {post.data.date}
-          </p>
+        <Hamburguer>
+          <a href="/posts">All Posts</a>
+          <a href="/contact">Contact</a>
+          <a href="/home">Contact</a>                    
+        </Hamburguer>
+
+        <div id="Navbar" className="fixed flex flex-columns w-screen [&>a]:m-0.5 [&>a]:py-4 [&>a]:h-auto [&>a]:p-auto [&>a]:text-center">
+
+            <a href="/" className="block h-full w-full text-xl justify-center bg-slate-300 filter grayscale text-left hover:drop-shadow-[0_0_0.3rem_#ffffff70] hover:grayscale-2 lg:left-3 dark:bg-slate-900 lg:w-auto lg:pl-3">&#8962; Home</a>
+      
+            <a href="/posts" className="block h-full w-full text-xl justify-center bg-slate-300 filter grayscale text-left hover:drop-shadow-[0_0_0.3rem_#ffffff70] hover:grayscale-2 lg:left-3 dark:bg-slate-900 lg:w-auto lg:pl-3">All Posts</a> 
         </div>
-
-        <div id="TableOfContents">
-          <p className="text-left text-lg font-semibold mb-2 mt-2">Table of Contents:</p>
-          <TableOfContents/>
-          <ul id="toc-main" className="list-group list-disc ml-2 text-left [&>li:hover]:font-black"></ul>
-        </div>
-      </div>
-
-      <div className="md:opacity-100 opacity-25 drop-shadow-2xl bg-white border-6 rounded-lg border-current fixed bottom-3 right-3 text-4xl p-2 font-serif">
-        <a
-          href="#">
-            &#128285;
-        </a>
-      </div>
-
-      <div id="Home" className="fixed bottom-3 left-3 text-lg justify-center bg-slate-400 dark:bg-slate-900 opacity-90 border rounded-lg hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2">
-        <a href="/" className=" text-normal m-2 block h-full w-full">&#8962; Home</a>
-      </div>
-
-      <div className="fixed top-0 text-xl justify-center w-full bg-slate-300 dark:bg-slate-900 opacity-90 text-left hover:drop-shadow-[0_0_0.3rem_#ffffff70] filter grayscale hover:grayscale-2 lg:left-3 lg:w-auto lg:pl-3">
-        <a href="/posts" className="text-normal m-2 block h-full w-full">All Posts</a> 
-      </div>
-
-      <div className="flex p-1 mt-10">
-        <article id="toc-container" 
-          className="prose prose-slate overflow-auto lg:text-xl dark:prose-invert p-9">
-          <Markdown className="md:mr-20">{post.content}</Markdown>
-        </article>
-      </div>
-
+        
+    <div className="flex p-1 my-[7rem]">
+      <article id="toc-container" 
+        className="prose prose-slate overflow-auto lg:text-xl dark:prose-invert p-9">
+        <Markdown className="md:mr-20">{post.content}</Markdown>
+      </article>
     </div>
+  </div>
   );
 };
 

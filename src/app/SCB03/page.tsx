@@ -11,6 +11,47 @@ const App = () => {
     const fastestSpeed = 35;
 return (
     <div className="bg-slate-900 text-green-300 font-mono m-5 p-5 [&>code]:pt-7 [&>h1]:mb-4 [&>h1]:text-2xl [&>h1]:text-bold [&>h2]:text-md [&>h2]:mt-3 [&>h2]:mb-2 [&>h2]:font-bold [&>p]:text-justify [&>p]:text-green-500 [&>p]:mt-5">
+        <div className='flex text-center justify-center flex-wrap'>
+            <a href='/SCB03' className="m-3 p-3 bg-gray-900 border rounded-md">Welcome Page</a>
+            <a href='/guardian' className="m-3 p-3 bg-gray-900 border rounded-md">Guardian Companion</a>
+        </div>
+
+        <div className='p-5 mt-3 text-center'>
+
+        <h2>Recommended Training</h2>
+
+        <table className='bg-gray-800 text-sm [&>th]:border [&>th]:rounded-md [&>tr]:border [&>tr]:rounded-md [&>td]:border [&>td]:p-2'>
+            <tr>
+                <th>Rank</th>
+                <th>Recommended Training</th>
+            </tr>
+            <tr>
+                <td>Capitan</td>
+                <td>System Operations, Navigate, Zero-G</td>
+            </tr>
+            <tr>
+                <td>Teniente primero</td>
+                <td>Firearms, Computer Maintenance, Technical Repair</td>
+            </tr>
+            <tr>
+                <td>Teniente segundo / Medico</td>
+                <td>Medicine, Psychology, Science</td>
+            </tr>
+            <tr>
+                <td>Alferez / Ingeniero</td>
+                <td>Electrical Repair, Mechanical Repair, Science (Engineering)</td>
+            </tr>
+            <tr>
+                <td>Alferez / Investigacion</td>
+                <td>Science (astronomy), Science (Physics), Zero-G</td>
+            </tr>
+            <tr>
+                <td>Investigacion / Agregado civil</td>
+                <td>Library Use, Science (astronomy), Spot Hidden</td>
+            </tr>
+        </table>
+    </div>
+
     <a href='/Investigadores'><Typewriter text={back} speed={fastestSpeed} loop={false}/> </a>
     <h1><Typewriter text={Title} speed={fastestSpeed} loop={false}/> </h1> 
     <h2><Typewriter text={Subtitle} speed={fastestSpeed} loop={false}/></h2>
