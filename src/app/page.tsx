@@ -1,9 +1,8 @@
-import Image from 'next/image'
 import "@fontsource/open-sans"
 import { Metadata } from "next";
 import React from "react";
-import DarkModeToggle from '@component/components/DarkToggle';
-import Hamburguer from '@component/components/HamburguerMenu';
+import DarkModeToggle from '@/app/components/DarkToggle';
+import Hamburguer from '@/app/components/HamburguerMenu';
 
 export const metadata: Metadata = {
   title: "Calen.Dani",
@@ -15,20 +14,13 @@ export default function Home() {
   return (
     <>
       <main className="flex bg-zinc-300 dark:bg-zinc-950 h-screen flex-col items-center justify-between text-inherit dark:text-slate-50 p-0">
-
-        <div className="z-10 max-w-5xl w-full items-center justify-between font-mono text-sm [&>ul]:hidden"></div>
           
           <p className="absolute px-10 flex top-0 w-full justify-center dark:border bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-md dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit z-10 md:justify-end md:w-auto md:left-2 md:h-auto md:rounded-xl md:p-4 md:top-24">
             Check Repo:&nbsp;
             <code className="font-mono font-bold">https://github.com/dcalenzani/server_01</code>
           </p>
 
-        <Hamburguer>
-          <a href="#">Projects</a>
-          <a href="/posts">Blog</a>
-          <a href="#">About</a>
-          <a href="/contact">Contact</a>
-        </Hamburguer>
+        <Hamburguer/>
         
         <div className='fixed right-1 pt-10 z-20'>
           <DarkModeToggle></DarkModeToggle>
