@@ -13,8 +13,8 @@ const BlogPage: React.FC<BlogPageProps> = ({ markdownContent }) => {
   const { title, date } = data;
 
   return (
-    <div className='w-full text-inherit font-mono text-zinc-950 dark:text-white'>
-      <div className='m-10 mb-20'>
+    <div className=''>
+      <div className='bg-zinc-100 dark:bg-zinc-900 font-mono text-zinc-950 dark:text-zinc-100 p-10 pb-20'>
         <h1 className='text-2xl text-zinc-950 dark:text-gray-200'>{title}</h1>
         <h1 className='text-xl text-zinc-950 dark:text-gray-200'>{date}</h1>
         <div className="py-10 prose dark:prose-dark">
