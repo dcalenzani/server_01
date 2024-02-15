@@ -1,6 +1,7 @@
 'use client'
 
 import { useEffect, useState } from "react";
+import DarkModeToggle from "./DarkToggle";
 
 interface Heading {
   text: string;
@@ -138,10 +139,10 @@ const TableOfContents = () => {
             </a>
 
     </div>
-    <div className={`fixed flex flex-col top-0 right-0 text-xl text-left space-y-2 w-screen md:w-1/4 md:h-full bg-gray-200 dark:bg-zinc-900 z-20 md:my-0 md:flex md:flex-col ${isMenuOpen ? 'block' : 'hidden'}`}>
+    <DarkModeToggle/>
+    <div className={`fixed flex flex-col border rounded-md top-0 pt-16 right-0 text-xl text-left space-y-2 w-screen md:w-1/4 md:h-full bg-gray-200 dark:bg-zinc-800 z-20 md:flex md:flex-col border-zinc-800 dark:border-zinc-200 ${isMenuOpen ? 'block' : 'hidden'}`}>
       <div className="flex flex-row border [&>a]:border [&>a]:border-zinc-800 border-zinc-800 dark:[&>a]:border-zinc-200 dark:border-zinc-200 text-center w-full">
         <a href="/" className="w-full h-full py-2">&#8962; Home</a>
-  
         <a href="/projects" className="w-full h-full py-2">All Posts</a>
       </div>
 

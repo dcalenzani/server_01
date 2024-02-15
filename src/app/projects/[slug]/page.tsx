@@ -13,7 +13,6 @@ function Post({ params }: { params: any }) {
   return (
     <div className="flex h-full w-full bg-zinc-100 dark:bg-zinc-900 ">
       <div className="">
-        <DarkModeToggle />
         <BlogPage markdownContent={content} />
         </div>
     </div>
