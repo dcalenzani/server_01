@@ -128,7 +128,7 @@ const TableOfContents = () => {
     <div className="fixed z-50 bottom-0 left-108 flex h-28 w-full items-center justify-center pt-8 bg-gradient-to-t from-white via-white  overflow-hidden dark:from-black dark:via-black">
             <a
                 className="flex place-items-center gap-2 p-8 pointer-events-auto"
-                href="../../"
+                href="/"
                 rel="noopener noreferrer"
             >
                 By{' '}
