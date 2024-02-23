@@ -1,6 +1,6 @@
 'use client'
 
-import Typewriter from "@/app/components/Typewriter";
+import Typewriter from "@/components/Typewriter";
 
 const App = () => {
     const Title = "ACOMPAÑAMIENTO DEL GUARDIAN"

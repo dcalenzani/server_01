@@ -1,4 +1,4 @@
-import { getListOfPosts, getPostContent } from "@/app/helpers/postHelpers"
+import { getListOfPosts, getPostContent } from "@/app/helpers/postCthulhians"
 import BlogPage from '@/components/BlogPage'
 
 export const generateStaticParams = async () => {

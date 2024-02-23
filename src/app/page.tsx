@@ -1,8 +1,8 @@
 import "@fontsource/open-sans"
 import { Metadata } from "next";
 import React from "react";
-import DarkModeToggle from '@/app/components/DarkToggle';
-import Hamburguer from '@/app/components/HamburguerMenu';
+import DarkModeToggle from '@/components/DarkToggle';
+import Hamburguer from '@/components/HamburguerMenu';
 
 export const metadata: Metadata = {
   title: "Calen.Dani",

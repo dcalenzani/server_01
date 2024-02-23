@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react';
-import Typewriter from '../../../components/Typewriter';
+import Typewriter from '../../../../components/Typewriter';
 
 const App = () => {
   const HandoutTitle = 'Diario del Capitan - 05 de Febrero:';

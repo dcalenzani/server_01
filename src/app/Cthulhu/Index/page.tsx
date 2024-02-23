@@ -1,5 +1,5 @@
-import getPostMetadata from "../../components/GetPostMetadata";
-import PostPreview from "../../components/PostPreview";
+import getPostMetadata from "@/components/GetCthulhuMetadata";
+import PostPreview from "@/components/PostCthulhiansPreview";
 import Hamburguer from "@/components/HamburguerMenu";
 
 const HomePage = () => {

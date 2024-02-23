@@ -1,8 +1,8 @@
 'use client'
 import { useState } from 'react';
 import emailjs from 'emailjs-com';
-import Hamburguer from '@/app/components/HamburguerMenu';
-import DarkModeToggle from '@/app/components/DarkToggle';
+import Hamburguer from '@/components/HamburguerMenu';
+import DarkModeToggle from '@/components/DarkToggle';
 
 export default function ContactForm() {
   const [fromName, setFromName] = useState('');

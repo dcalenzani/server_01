@@ -1,4 +1,4 @@
-import Gauge from "@/app/components/Gauge";
+import Gauge from "@/components/Gauge";
 
 const Home = ({}) => {
     console.log("Downloads!")

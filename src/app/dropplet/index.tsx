@@ -1,10 +1,10 @@
 import Head from 'next/head';
 import { getData } from '../api/dropplet/latest';
 import Image from 'next/image';
-import Gauge from '@/app/components/Gauge';
+import Gauge from '@/components/Gauge';
 import { useEffect, useState } from 'react';
 import { soilSensor } from '@/interfaces/sensors';
-import Hamburguer from '@/app/components/HamburguerMenu';
+import Hamburguer from '@/components/HamburguerMenu';
 
 export async function getServerSideProps(){
   const soilSensor = await getData();

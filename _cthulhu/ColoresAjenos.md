@@ -8,7 +8,7 @@ date: '2023-05-31'
 
 ## Introducción
 
-Las era del caucho, también conocida como la fiebre del caucho, fue un período histórico que aterrorizó la amazonía peruana, colombiana, brasileña y boliviana durante las últimas décadas del siglo XIX y las primeras décadas del siglo XX. Como muchos movimientos de explotación de recursos, no estuvo dirigido de forma aútonoma por los habitantes nativos del bosque amazónico; todo lo contrario, fue un pequeño grupo de empresarios quienes a punta de plata y plomo subyugaron a las diferentes etnias de la región para el aprovechamiento del llamado "oro blanco". Quizá lo más indignante, triste y rábido es entender que este tipo de explotación y violencia no fue exclusivo de este momento histórico. La desigualdad social es, por sí misma, origen de violencia, pero cuando logra justificarse bajo la bandera de la civilización y el bien común desencadena horrendas conclusiones para aquellos "incivilizados". Esta constante de buscar "expandir la civilización" existe desde el inicio de la escritura, el licor y la agricultura. El imperio necesita recursos...
+La era del caucho, también conocida como época de la fiebre del caucho, fue un período histórico que aterrorizó la amazonía peruana, colombiana, brasileña y boliviana durante las últimas décadas del siglo XIX y las primeras décadas del siglo XX. Como muchos movimientos de explotación de recursos, no estuvo dirigido de forma aútonoma por los habitantes nativos del bosque amazónico; todo lo contrario, fue un pequeño grupo de empresarios quienes a punta de plata y plomo subyugaron a las diferentes etnias de la región para el aprovechamiento del llamado "oro blanco". Quizá lo más indignante, triste y rábido es entender que este tipo de explotación y violencia no fue exclusivo de este momento histórico. La desigualdad social es, por sí misma, origen de violencia, pero cuando logra justificarse bajo la bandera de la civilización y el bien común desencadena horrendas conclusiones para aquellos "incivilizados". Esta constante de buscar "expandir la civilización" existe desde el inicio de la escritura, el licor y la agricultura. El imperio necesita recursos...
 
 ...Amazonas cauchero, diamantes africanos, algodón estadounidense, el congo belga... ¡El horror! ¡El horror!
 
@@ -16,119 +16,143 @@ La llamada de Cthulhu es un juego de rol que nos permite enfrentar lo desconocid
 
 En un contexto donde el horror se deriva en la locura, revelamos el impacto de los "horrores humanos" sobre la cordura de nuestros "investigadores". Los investigadores son personajes jugables (PJ) controlados por los jugadores reunidos, quiénes buscan cumplir un objetivo mientras escapan (o se unen) a las criaturas ancestrales que forman parte del universo del horror cósmico.
 
-## Nota sobre la precisión histórica y etnográfica
+### Nota sobre la precisión histórica y etnográfica
 
-Este libro no es histórico. Sin embargo, sería incorrecto pretender es completamente una invensión. Se han usado fuentes académicas y libros diversos para reconstruir la región amazónica entre los rios Manu y Madre de Dios. Etnografías y textos históricos se utilizaron como inspiración. Pero toda área gris se ha aprovechado para contar una historia, la de investigadores en descubrimiento del horror en el bosque amazónico. 
+Este libro no es histórico. Sin embargo, sería incorrecto pretender es completamente una invención. Se han usado fuentes académicas y libros diversos para reconstruir la región amazónica entre los rios Manu y Madre de Dios, pero podemos caer en imprecisiones al momento de querer contar un relato. Es importante para el juego mantener la fluidez y diversión, así que si la historia y realidad en algún momento no ayudan, pues dejalas de lado. 
 
-Que no se entienda por esto que pretendemos "mentir" para cambiar la historia, todo lo contrario, aprovechamos las realidades e insertamos en ellas nuevos relatos, pero sin cambiar el contenido original de las mismas (más allá de quizá alguna fecha o lugar específico). 
+Eso si, esperamos que los ejemplos que planteamos demuestren que sería incorrecto plantear a un grupo como "bueno" o "malo", "salvaje" o "civilizado", no solo por ser ideas contrarias a la historia y la realidad, sino también porque impiden complejizar a nuestros personajes humanos. Quiénes muestran esta escala de grises que, en un juego como "La llamada de Cthulhu", retienen aún parte de su humanidad. Cualquier absoluto pertenece a lo arcano. 
 
-Nunca te dire que los caucheros fueron "buenos" o que su cruzada "civilizadora" estuvo justificada. Tampoco pretendemos que la brutal violencia perpetrada sea "locura" provocada por alguna bestia ancestral. Estos horrores fueron, y siempre serán, humanos. Al mismo tiempo, no quiero plasmar a los nativos del bosque amazónico como "buenos" ni mucho menos como "puros y nobles" como pretenden algunos relatos mitificadores, son sociedades políticas y complejas, con sus propias pugnas por el poder y teorías sobre la sociedad. Recomiendo modificar las ideologías subyacentes a los grupos mostrados en este libro solo después de revisar los textos recomendados, creeme cuando te digo que la realidad a veces supera a la ficción.
+## Historia Cthuliana del bosque y los ríos Manu y Madre de Dios
 
-## Historia Cthuliana del bosque amazónico y los ríos Manu y Madre de Dios 
+En este mundo de choques y descubrimientos es donde insertamos lo absolutamente desconocido, el horror cósmico es un saber vital del misterio que existe en la Amazonía, ecosistema único en el mundo. En un contexto de locura humana y civilizadora, lo ancestral y arcano transforma y maximiza las justificaciones irracionales de los perpetradores al mismo tiempo que oculta las perturbaciones de lo arcano. Abrimos un verde telón para que ustedes y sus grupos exploren, es hora de incendiar la pradera. 
 
-En este mundo de choques y descubrimientos es donde insertamos lo absolutamente desconocido, el horror cósmico es un sabor vital del misterio que es la Amazonía, ecosistema único en el mundo. En un contexto de locura humana y civilizadora, lo ancestral y arcano transforma y maximiza las justificaciones irracionales de los perpetradores. Abrimos un verde telón para que ustedes y sus grupos exploren, es hora de incendiar la pradera. 
+Nuestra obra existe en el año 1903, han pasado 5 años desde que Carlos Fermín Fitzcarraldo murió. Un lustro bastó para realizar cambios profundos en el corazón del Manu, y su caída ha dejado un vacío de poder en la jerarquía estricta de la explotación cauchera. El barón del caucho murio ahogado en una situacion poco clara donde parecia intentar a su amigo y co-inversionista, Antonio Vaca Diez.
 
-El año es 1903, han pasado 5 años desde que Carlos Fermín Fitzcarraldo murió. Un lustro bastó para realizar cambios profundos en el corazón del Manu, y su caída ha dejado un vacío de poder en la jerarquía estricta de la explotación cauchera. El barón del caucho murio ahogado en una situacion poco clara donde parecia intentar a su amigo y co-inversionista, Antonio Vaca Diez.
+La muerte de Vaca Diez alza como el mayor pez al magnate Nicolas Suarez, que controla la entrada de Beni y la parte sur oeste del rio Manu. El Istmo se ha convertido en zona liberada, la zona esta en disputa indigena y entre los capataces de Fitzcarraldo. Por Qeros y Atalaya, o los rios cercanos a Urubamba, Harakmbut y Matsiguenka se encuentran dispersos en el territorio, han sufrido y sufren brutalidades por parte de los caucheros. 
 
-La muerte de Vaca Diez alza como el mayor pez al magnate Nicolas Suarez, que controla la entrada de Beni. El Istmo se ha convertido en zona liberada, la zona esta en disputa indigena y entre los capataces de Fitzcarraldo. Por Qeros y Atalaya, o los rios cercanos a Urubamba, Harakmbut y Matsiguenka se encuentran dispersos en el territorio, han sufrido y sufren brutalidades por parte de los caucheros. 
+Indígenas Asháninka, conocidos en estos tiempos como campa, ante la ausencia de su principal explotador, no dudan en rebelarse y formar sus propias comunidades que se empiezan a denominar "Yine", sin dejar de trabajar en la decadente economía cauchera. Grupos indígenas locales cómo los Matsiguenka y los Mashco-Piro se ven en una encrucijada ¿huir o defender sustierras hasta la muerte?
 
-Incendios de "Malokas", chozas nativas que se ha registrado podian albergar hasta 300 personas, con habitantes adentro. Sangrados a personas vivas, con los miembros atados en postes separados
+Fitzcarraldo ya no está, es cierto, pero el espíritu de su cruzada aún aterroriza las almas que quedaron aisladas en el Manú.
 
-Indígenas Asháninka, conocidos en estos tiempos como campa, ante la ausencia de su principal explotador, no dudan en rebelarse y formar sus propias comunidades que se empiezan a denominar "Yine", grupos indígenas locales cómo los Matsiguenka y los Mashco-Piro se ven en una encrucijada ¿huir o defender sustierras hasta la muerte? Fitzcarraldo ya no está, es cierto, pero el espíritu de su cruzada aún aterroriza las almas que quedaron aisladas en el Manú.
+### Entre el Rio Manu y el Rio Madre de Dios
 
-## Gancho
+La historia propuesta transcurre en 14 dias calendario. Esta es la distancia que tomaría el viaje desde Paucartambo hasta Kurtzland. Si el grupo de jugadores decide tomar rutas alternativas considerar las distancias en el mapa para reconsiderar las horas pasadas. 10km/h es la movilidad media de una lancha de rio, sin embargo la ruta por Urubamba es más directa, combinado con un caudal que favorece adquirir velocidad. 
+
+![Mapa del Capitan](https://dcalenzani.lat/IMG/CaptainsMap.jpg "Mapa del Capitan")
+
+Si deciden ir por Urubamba tendrán que primero viajar desde Paucartambo hasta dicha ciudad, donde no encontraran ningún impacto del color. Desde allí, tendrán que tomar el río Urubamba hasta chocar con su afluente, el rio Serjhali, el cuál choca con el estrecho de Fitzcarraldo.
+
+![Mapa del Istmo](https://dcalenzani.lat/IMG/IstmusMap.jpg "Mapa del Istmo")
+
+>`El estrecho de Fitzcarraldo es una estructura enorme, rieles de metal que se han comido al bosque y dos astilleros en cada extremo donde los navíos son rápidamente armados y desarmados. El humo del carbon quemado para propulsar a los trenes inunda el ambiente, y como sombras gigantes vagones viajan llenos con los barcos, desarmados en partes perfectas que encajan como rompecabezas navegables.`
+
+Para poder cruzar el estrecho, deberán pagar una fuerte suma de dinero y entregar cualquier arma que hayan intentado llevar. Los caucheros están curtidos en los engaños, y se requiere un engaño con éxito extremo para poder pasar las armas que carguen cada uno (en caso las tuvieran a la mano). 
+
+Al salir estarán directamente en el territorio conocido como Kurtzlandia, obviando gran parte de los conflictos entre grupos presentes en la amazonía y teniendo un menor conocimiento de lo arcano. Asi mismo, Kurtz estará completamente al tanto de su llegada, iniciando el evento de "Desayuno con Kurtz" en la mañana siguiente de su llegada. 
+
+Aunque es cierto que habrán obviado buena parte del camino y retendrán mayor parte de su locura, la revelación de la locura de Charlie les probará un mayor reto, ya que la pérdida de la cabeza de la expedición representa también una suerte de pérdida de rumbo. Podrán entonces pasar más tiempo bajo el guiado de Kurtz, o quizás confiar en Charlie y revertir el avance de Kurtz por contener al color.
+
+
+### Ganchos posibles
 
 En el corazón del conflicto, un mesías se alza. El nombre de Kurtz resuena desde Ucayali hasta Urubamba, uno de los capataces más íntimos del barón mítico ha logrado integrarse a la vida amazónica de tal forma que, al menos visto desde afuera, no se le percibe precisamente como un explotador. Los pocos campas que vuelven al cerro de la sal lo describen cómo alguién "encantador" y al mismo tiempo "fuerte".
 
 Aunque muchos hombres en la frontera con Colombia y Brasil han empezado a abandonar sus inversiones caucheras debido a la desmonopolización producto del robo de semillas de árboles por los británicos e incluso Nicolás Suárez está invirtiendo ya en la búsqueda de oro; para Kurtz, abandonar sus tierras no es una opción.
 
+- Los investigadores pueden ser aventureros interesados en el dinero que proporciona Charlie Marlow como líder de la expedición. Sus personalidades pueden ser de ambiciosos embusteros o necesitados trabajadores.
+
+- Los investigadores son exploradores, quieren encontrar eso único que esconde el amazonas. Muy poco dibujado y poco conocido, los ríos del Manu poseen una biodiversidad inmensa para cualquier científico interesado. Para investigadores de lo oculto, las religiones amazónicas y el contacto del mundo espiritual es un atractivo único.
+
+- Los investigadores son religiosos, dispuestos a llevar la palabra de Dios a los indígenas amazónicos. En la época ya existían algunas misiones en la amazonía peruana, especialmente por grupos jesuitas y dominicos.
+
+## Dramatis Personae
+
 ### Grupos
 
-Caucheros de Fitzcarraldo
+- Caucheros de Fitzcarraldo
+Entre ellos podemos encontrar a todos aquellos que en algun momento estuvieron bajo el mando de Fitzcarraldo. Los Caucheros de Kurtz también forman parte de este grupo. Son amigables con occidentales que pagen el uso del peaje y están ubicados en los rios al norte del mapa
 
-Caucheros de Kurtz
+- Caucheros de Vaca Diez
+Son los que dominan los rios al sur del mapa. No permiten el paso a nadie que no jure lealtad a Vaca Diez, y están en constante tarea de expansión. No es difícil encontrar enfrentamientos entre caucheros e indigenas por el control de la zona.
 
-Caucheros de Vaca Diez
+- Harakbut
+Grupo indígena que habita en las riberas del río Madre de Dios. Están en conflicto con los Matsiguenka por el control del delta de Madre de Dios. Han tratado de mantenerse al margen del caucho, reduciendo cada vez más su control territorial. Esto ha provocado que una buena parte de ellos (cerca de 3000 nativos) hayan muerto por manos de los caucheros. Los Toyeri y Araseri son algunos de los grupos destruidos.
 
-Harakbut
+- Matsiguenka
+Indígenas de las riberas del río Manu. Son un grupo muy numeroso y heterogéneo. Algunos clanes están aliados con los caucheros de bolivia para recibir armas y metales, muy escasos en la amazonía.
 
-Matsiguenka
+- Ashaninka
+Trabajan de manera exclusiva con los caucheros de Fitzcarraldo, son "migrantes", ya que no provienen de esta región y fueron traídos para explotar el caucho
 
-Piro
-
-Pano
+- Mashco y Piro
+Grupos indígenas emparetados, su situación de división recién empieza en esta época, al aliarse los Piro con Fitzcarraldo y los Mashco querer mantener su independencia.  
 
 ### Personajes del Manu 
 
 _En orden de aparición_
 
-1. Cecilia Marlow: Capitana del Nellie, un bote a vapor con el que cruza el rio madre de dios. Los contactos con las rutas caucheras la han expuesto a los horrores de la selva peruana, haciendola sobreprotectora pero firme con sus ideales. Es ante todo una mujer de familia, pero no dudara en castigar duramente a sus hijos si es necesario.
+1. Charlie Marlow: Lider de la expedicion "Nellie", un ricachon de la costa peruana con un secreto. En un sueño recibió un mensaje de Nyarlatothep, escrito en los cielos estaba el nombre de Kurtz y grabada en su mente la sensación de que debe asesinarlo.
 
-2. Romina Arevalo: Shaman Matsiguenka, criada bajo un padre cauteloso y una madre permisiva, aprendio las artes de brujo desde temprana edad, sabe viajar entre mundos tanto despierta como en sueños y conoce el bosque mejor que nadie, aunque no salga de Boca Manu desde el accidente con sus piernas.
+2. Romina Arevalo: Shaman Matsiguenka, criada bajo un padre cauteloso y una madre permisiva, aprendio las artes de brujo desde temprana edad, sabe viajar entre mundos tanto despierta como en sueños y conoce el bosque mejor que nadie, aunque no salga de Boca Manu desde el accidente con sus piernas. Considera que "Wanamei" es un árbol de la perdición, y debe evitarse su surgimiento a toda costa. 
 
-3. Padre Andrés: Sacerdote Dominico misionado en Boca Manu. Actualmente se encuentra en la aldea Yine antes de llegar a Kurtzlandia. Fue capturado y secuestrado por Kurtz, quién lo introdujo a la locura del color. Actualmente vive sin corazon (en el sentido mas literal, su corazon se encuentra escondido en el sagrario de la capilla), lo que lo mantiene bajo control. En la mision Yine y mediante las eucaristias Andres promueve una vision casi protestante de "crear el cielo en la tierra". Habla sobre como el "Cristo de colores" en realidad existio y puede regresar, si tenemos la suficiente fe y realizamos el trabajo necesario. Aplaude las labores de Kurtz por "limpiar la selva de impurezas" e invita a los asistentes a asistir en Kurtzland con mano de obra. Esto es, claramente, solo un truco del color para quitarles fuerza vital. 
+3. Yamani Piro: Shaman que en realidad es de origen Mashco, y ayuda en secreto a los indígenas Harakmbut que sufren desplazamientos por el caucho. Esta obsesionado con revivir a Wanamei, el árbol sagrado Harakmbut, esta visión vino a él en un sueño alucinógeno en su ritual de iniciación.
 
-4. Georg Kurtz: Cauchero, se encuentra en su campamento en aislamiento desde que las inversiones empezaron a retirar el capital del rio Madre de Dios. Desde hace años tiene tratos que lo favorecen inmensamente, la gran mayoria de ellos fueron ganados con violencia, pero otros en base a diplomacia muy elegante que precisaba de conocer las culturas locales. Esta controlado por el color y unido a el, si se presta atención (spot hidden) se vera que desde su tobillo una especie de tela de araña se mueve hacia el suelo, pero habria que quitarle toda la materia  a la idea de tela, porque solo el raro reflejo de la luz mantiene esa estructura. Por las noches necesita conectarse con el color nuevamente extendiendo este órgano por el suelo, lo que si produce transformaciones materiales en su cuerpo que se extienden a su entorno. 
+4. Padre Andrés: Sacerdote Dominico misionado en Boca Manu. Actualmente se encuentra en la aldea Yine antes de llegar a Kurtzlandia. Fue capturado y secuestrado por Kurtz, quién lo introdujo a la locura del color. Actualmente vive sin corazon (en el sentido mas literal, su corazon se encuentra escondido en el sagrario de la capilla), lo que lo mantiene bajo control. En la mision Yine y mediante las eucaristias Andres promueve una vision casi protestante de "crear el cielo en la tierra". Habla sobre como el "Cristo de colores" en realidad existio y puede regresar, si tenemos la suficiente fe y realizamos el trabajo necesario. Aplaude las labores de Kurtz por "limpiar la selva de impurezas" e invita a los asistentes a asistir en Kurtzland con mano de obra. Esto es, claramente, solo un truco del color para quitarles fuerza vital. 
 
-### Ingresos hacia el territorio de Kurtz
-
-1. El Istmo de Fitzcarraldo
-El pueblo mas cercano es Urubamba, el acceso al Istmo
-
-2. Qeros y Atalaya
-
-
-3. Beni Madre de Dios
-
-### Entre el Rio Manu y el Rio Madre de Dios
-
-La historia transcurre en 5 dias calendario. Al mismo estilo del teatro griego, cada sesion esta planificada en torno a un ciclo solar, antes que a llegar a lugares o cumplir objetivos. Sin embargo, cada objetivo de la historia ha sido colocado segun esta nocion. Si el grupo de jugadores decide tomar rutas alternativas considerar las distancias en el mapa para reconsiderar las horas pasadas. 10km/h es la movilidad media en una lancha en el rio, en el bosque la velocidad se reduce a la mitad, a menos que conozcas el sector.
-
-![Mapa del Capitan](/public/CaptainsMap.jpg "map")
+5. Georg Kurtz: Cauchero, se encuentra en su campamento en aislamiento desde que las inversiones empezaron a retirar el capital del rio Madre de Dios. Desde hace años tiene tratos que lo favorecen inmensamente, la gran mayoria de ellos fueron ganados con violencia, pero otros en base a diplomacia muy elegante que precisaba de conocer las culturas locales. Quiere "ahogar" a la criatura que cree vive en Paratoari, y está decidido a detonar la entrada que se cuenta ver en la punta de la montaña.
 
 ## El destello de El Color
 
-Las expresiones del color aumentan en funcion del numero de dias. Cada dia se duplican la cantidad de eventos, empezando con 1 evento en el primer dia. La intensidad de los eventos incrementa conforme uno se acerca al territorio del color. 5km sera suficiente para tener efectos intensos, pero una proximidad de pocos metros sera extremadamente peligroso para una persona normal. 
+Como se explico, el color estuvo activo durante varios años en la amazonía, pero con la mu
+
+Las expresiones del color aumentan en funcion del numero de dias. Cada dia se duplican la cantidad de eventos, empezando con 1 evento en el primer dia. La intensidad de los eventos incrementa conforme uno se acerca al territorio del color. 5km sera suficiente para tener efectos intensos, pero una proximidad de pocos metros sera extremadamente mortal para una persona normal. 
 
 Deberán realizar 1 tirada de PODER con la llegada del destello, para verificar si son impactados o no por nuestro colorido amigo. Los efectos del color son diversos y pueden afectar a la materia orgánica e inorgánica.
 
-|Resultado | Efecto del color | Daño en cordura
-|------|-----| ------|
-| 1 | Cambio en el tono o forma del cielo. |
-| 2 | Tormentas y oscurecimiento del cielo. |
-| 3 | Aparicion de animal herbivoro brillante |
-| 4 | Aparicion de animal carnivoro brillante |
-| 5 | Humano(s) brillantes |
-| 6 | Vapor emana del rio hasta producir una suerte de neblina |
-| 7 | Fallas electricas generalizadas |
-| 8 | Brillo cegador repentino | 
-| 9 | Extraña luminiscencia brota de las venas |
-| 10 | Dolor intenso al respirar, las exhalaciones se pueden ver |
+
+|Resultado 	| Efecto del color 	| Daño en cordura	|
+|---------------|-----------------------|-----------------------|
+| 1 		| Cambio en el tono o forma del cielo.		| 0/1D6 |
+| 2 		| Tormentas y oscurecimiento del cielo. 	| 0/1D6|
+| 3 		| Aparicion de animal herbivoro brillante 	| 0/1D4 |
+| 4 		| Aparicion de animal carnivoro brillante 	| 0/1D6 |
+| 5 		| Aparicion de víctima horrenda			| 2 / 1D10 |
+| 6 		| Ataque de asháninkas enloquecidos desde las orillas   | 0/1D4 |
+| 7 		| Fallas electricas generalizadas 		| 0/1D4 |
+| 8 		| La comida y bebida se arruinan			| 0/1D4 |
+| 9 		| Extraña luminiscencia brota de las venas 	| 4/1D10 + 2 |
+| 10 		| Dolor intenso al respirar, las exhalaciones se pueden ver | 3/1D12 + 2 |
+
+Los colores son formas de vida inteligentes no orgánicas, y privilegian el contacto con objetos con bajos niveles de carbono. Por ello, empiezan su expansión transformando la materia no-orgánica, el agua es un gran medio para su movilización, siendo un excelente conductor de sus cuerpos formados por ondas de luz. Sin embargo, necesitan alimentarse también de materia orgánica, tanto como nosotros necesitamos sales y minerales.
+
+Con el tiempo y la cercanía a las montañas de Parotoari, el impacto del color es mucho más visible, especialmente en la noche, donde el cerro se ilumina.
 
 ## El rio como enemigo
 
 *"En la selva los rios funcionan como carreteras"* dijo una vez un profesor amazonologo. El rio es el espacio de transito y tambien marca la geografia local, pero en nuestro drama, el Color se manifiesta y comunica a traves del agua, lo que pone en peligro a todos los humanos que se acercan a su dominio.
 
-Para manejar el barco se necesita una persona para operar el timón y otra parada en la proa para visualizar y avistar de los peligros en el río. En este viaje existen algunos peligros más allá de los naturales. Estos son algunos ejemplos de peligros ambientales que pueden encontrarse los viajeros al surcar los rios del manu.
+Los colores son peligros formidables, y los ríos del Manu el medio perfecto para que esta criatura pueda dar casa con libertad. El río es, de alguna forma, una extensión del color, el cuál intenta con sus efectos atraer y posiblemente consumir a los que son tocados por sus ondas.
+
+Para manejar el barco se necesita una persona para operar el timón y otra parada en la proa para visualizar y avistar de los peligros en el río. Dado que en este viaje existen algunos peligros más allá de los naturales, estar expuesto a la proa significa estar más cerca del horror y de lo oculto. 
 
 |Resultado | Efecto del color|
 |------|-----|
-| 1 | Nuevos ríos |
-| 2 | Oleaje alto |
-| 3 | Troncos en el tramo |
-| 4 | Banco de Arena|
-| 5 | Cocha espejismo |
-| 6 | Vapor y agua hirviendo |
-| 7 | Animal atorado en las helices |
-| 8 | Ataque de nativos desde las orillas |
-| 9 | Sirena o delfin rosado |
+| 1 | Nuevos ríos hacía Paratoari |
+| 2 | Oleaje alto los acerca a una orilla (del lado este del río) |
+| 3 | Vapor corrosivo emana del rio  |
+| 4 | Banco de Arena con vidrio subyacente |
+| 5 |  |
+| 6 | El agua quema todo lo que toca |
+| 7 | Animal víctima del color se queda atorado en las helices |
+| 8 | Animales víctimas del color atacan la embarcación |
+| 9 | Sirena o delfin rosado a la distancia |
 | 10 | Ataque de Yakumama |
 
 ## Paucartambo y la salida hacia la selva
 
 El objetivo del dia es llegar a Atalaya. Para lograrlo los investigadores pueden optar por 2 rutas, la via ancha por tierra, sin ningun tipo de cercanía con personas pero que permite el paso de vehículos (pero solo si eres local no te perderás). La segunda es un antiguo camino incaico que llega hasta Q´eros y después tomar el río. 
 
-La capitan del barco insistirá en comenzar por Q'eros y salir temprano, en este poblado tiene sus lanchas y gastaría menos gasolina. Si desean ir por carro no hay mayor problema en enviar a un sobrino a que mande la voz de llevar el barco al puerto. La diferencia principal está en que de escoger el camino directo a Atalaya deberán buscar un vehículo para llegar ahí. Existe 1 carro que sale hacia Atalaya desde la Plaza 2 veces al día. Hay 2 turnos, a las 11 am y 3pm, pero el conductor, Elmer Huapas, quiere descansar al menos 2 horas más después de las 3 (está borracho). Cualquier tirada de intimidación o persuasión serán lanzadas con desventaja, pero tiradas de encantar o psicología serán tratadas con ventaja. 
+Charlie, el líder de la investigación, insistirá en comenzar por Q'eros y salir temprano, en este poblado tiene sus lanchas y gastaría menos gasolina. Si desean ir por carro no hay mayor problema en enviar a un sobrino a que mande la voz de llevar el barco al puerto. La diferencia principal está en que de escoger el camino directo a Atalaya deberán buscar un vehículo para llegar ahí. Existe 1 carro que sale hacia Atalaya desde la Plaza 2 veces al día. Hay 2 turnos, a las 11 am y 3pm, pero el conductor, Elmer Huapas, quiere descansar al menos 2 horas más después de las 3 (está borracho). Cualquier tirada de intimidación o persuasión serán lanzadas con desventaja, pero tiradas de encantar o psicología serán tratadas con ventaja. 
 
 Por el dinero de los pasajes y algo más estará dispuesto a prestar el carro a la capitan, siempre y cuando un sobrino regrese manejando para el día de hoy.
 
@@ -207,7 +231,7 @@ El brujo ya ha perdido completamente la cordura producto de sus prolongados cont
 
 El brujo conoce bastante sobre el Cristo de Colores (El color caido del espacio)
 
-_En Paucartambo lo conocen como el Cristo de Colores, dicen que llegó hace mucho pero no saben cuanto. Yo no me había olviddo de él, es un Dios antes de Cristo, nos ha protegido mucho tiempo y tiene un poder infinito. Cayó desde el cielo y construímos a su alrededor, puede sanar la carne y tiene poder sobre la vida, tanto como da puede quitar. Estuvo dormido mucho tiempo, nos olvidamos de él, pero ahora es fuerte de nuevo y nos vuelve a proteger._
+_En Paucartambo lo conocen como el Cristo de Colores, dicen que llegó hace mucho pero no saben cuanto. Yo no me había olvidado de él, es un Dios antes de Cristo, nos ha protegido mucho tiempo y tiene un poder infinito. Cayó desde el cielo y construímos a su alrededor, puede sanar la carne y tiene poder sobre la vida, tanto como da puede quitar. Estuvo dormido mucho tiempo, nos olvidamos de él, pero ahora es fuerte de nuevo y nos vuelve a proteger._
 
 Si le preguntamos por Kurtz nos dirá
 
@@ -224,9 +248,7 @@ Por otra parte, si le preguntamos por cómo llegar a Boca Manu
 - Recomendará tener cuidado, especialmente con la mujer brujo que vive allá desde hace unos meses.
 - Avisará que lo mejor es pasar poco tiempo en Boca Manu y salir hacia Kurtzland
 
-Además, de manera gratuita, avisará de los troncos y caimanes cerca a Shintuya, y nos hablará del atajo hacia Boca Manu que ha producido el incremento de lluvias 
-
-## Ataque nativo
+# Ataque nativo
 
 Durante el transcurso de la ruta en el río existe la posibilidad de que los investigadores sean atacados desde las orillas por habitantes nativos del valle del Manu. Ellos tienen flechas y lanzas, pero tienen la fragilidad de un humano regular. Ninguno de ellos está realmente afectado por el color como para sobrevivir sobrenaturalmente.
 

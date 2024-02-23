@@ -1,7 +1,7 @@
 'use client'
 
 import React from 'react';
-import Typewriter from '../../components/Typewriter';
+import Typewriter from '../../../components/Typewriter';
 
 
 const App = () => {
