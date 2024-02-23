@@ -15,6 +15,9 @@ module.exports = {
       '7xl': '5.5rem',
     },
     extend: {
+      fontFamily: {
+        'open-dyslexic': ['OpenDyslexic', 'sans-serif'],
+      },
       typography: (theme) => ({
         DEFAULT: {
           css: {

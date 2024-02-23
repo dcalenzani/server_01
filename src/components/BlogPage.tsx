@@ -15,12 +15,12 @@ const BlogPage: React.FC<BlogPageProps> = ({ markdownContent }) => {
 
   return (
     <div className=''>
-      <div className='bg-zinc-100 dark:bg-zinc-900 font-mono text-zinc-950 dark:text-zinc-100 p-10 pb-20'>
+      <div className='bg-zinc-100 dark:bg-zinc-900 font-open-dislexic text-zinc-950 dark:text-zinc-100 px-10 pb-20'>
         <h1 className='text-2xl text-zinc-950 dark:text-gray-200'>{title}</h1>
         <h1 className='text-xl text-zinc-950 dark:text-gray-200'>{date}</h1>
         <div className="py-10 prose dark:prose-dark">
           <ReactMarkdown 
-            className=""
+            className="px-10"
             remarkPlugins={[gfm]}
             rehypePlugins={[rehypeSlug, [rehypeAutolinkHeadings, { behavior: 'wrap' }]]}
             components={{

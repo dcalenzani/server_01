@@ -4,7 +4,7 @@ const PostPreview = (props: PostMetadata) => {
   const dateString = new Date(props.date).toLocaleDateString();
 
   return (
-    <a className="group rounded-lg border border-neutral-900 space-y-2 my-2 mx-1 px-5 py-2 transition-colors h-[200px] hover:border-neutral-700 hover:bg-neutral-800/30" href={`./${props.slug}`}>
+    <a className="group rounded-lg border border-neutral-900 space-y-2 my-2 mx-1 px-5 py-2 transition-colors h-[200px] hover:border-neutral-700 hover:bg-neutral-800/30" href={`./Cthulhu/${props.slug}`}>
       <h2 className="font-bold">{props.title}</h2>
       <p className="text-sm text-red-500 dark:text-yellow-300">{dateString}</p>
       <p className="italic">{props.excerpt}</p>
