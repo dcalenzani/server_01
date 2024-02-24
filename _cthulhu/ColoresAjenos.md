@@ -26,6 +26,20 @@ Eso si, esperamos que los ejemplos que planteamos demuestren que sería incorrec
 
 En este mundo de choques y descubrimientos es donde insertamos lo absolutamente desconocido, el horror cósmico es un saber vital del misterio que existe en la Amazonía, ecosistema único en el mundo. En un contexto de locura humana y civilizadora, lo ancestral y arcano transforma y maximiza las justificaciones irracionales de los perpetradores al mismo tiempo que oculta las perturbaciones de lo arcano. Abrimos un verde telón para que ustedes y sus grupos exploren, es hora de incendiar la pradera. 
 
+Nyarlatothep, Dios más antiguo que la misma humanidad, hemisario de dioses más antiguos que él, pero al mismo tiempo un trabajador independiente con planes propios de cómo causar caos entre nuestra raza. Por motivos ajenos a nosotros, El Caos Reptante se relaciona con los humanos. A diferencia de otras criaturas arcanas que viven sin darle menor importancia a las vidas humanas, la Lengua Sangrienta, Caos Reptante, Nyarlatothep, invita a la humanidad a recibir su peligroso y caótico conocimiento. 
+
+Para esta oportunidad, Nyarlatothep ha resultado ser realmente travieso, apostandole a los 2 jinetes de la destrucción que ha traído al territorio de los ríos Manu y Madre de Dios.
+
+El dios ha plantado desde hace años en la tierra a Colores, meteoritos inteligentes capaces de integrarse con diferentes materias, dado que su cuerpo principal está compuesto por ondas luminosas. Uno de estos colores cayó hace más de 100 años en la amazonía, en 1758, causando lo que sería conocido como la "asunción" de Juan Santos Atahualpa.
+
+Alrededor de la roca se origino el culto del paititi, el oro era un conductor excelente para el cuerpo de silicio. Pero la población indígena amazónica tardaba demasiado en encontrar oro para seguir alimentando al color. Sin saberlo, habían criado a un pequeño colíbri en su jaula dorada. El culto declino producto de conflictos entre asháninkas y españoles, posteriormente criollos. 
+
+El territorio del paititi pasó a manos de los matsiguenka, quienes se mantuvieron alejados de las pirámides debido a las reacciones sobre los habitantes que llegaban al área de influencia del color. El bosque recuperó las montañas y el color tuvo suficiente "comida" en esta densísima biósfera, sin necesidad de ampliar mucho sus incorpóreo ser.
+
+Hasta la llegada del caucho, la explotación de árboles en el Manú representaba la tala de los mismos, era la forma más rápida y eficaz de extraer este rico recurso. O así lo justifican los empresarios caucheros...
+
+La pérdida de comida provoco que nuestro Color buscase nuevamente donde extraer alimentos orgánicos, y aprovecho este nuevo recurso que apareció, los humanos. No pasó mucho tiempo para que el color volviera al agua, donde aprovecho los ríos cuáles tentáculos. El Paititi tiene hambre.                                
+
 Nuestra obra existe en el año 1903, han pasado 5 años desde que Carlos Fermín Fitzcarraldo murió. Un lustro bastó para realizar cambios profundos en el corazón del Manu, y su caída ha dejado un vacío de poder en la jerarquía estricta de la explotación cauchera. El barón del caucho murio ahogado en una situacion poco clara donde parecia intentar a su amigo y co-inversionista, Antonio Vaca Diez.
 
 La muerte de Vaca Diez alza como el mayor pez al magnate Nicolas Suarez, que controla la entrada de Beni y la parte sur oeste del rio Manu. El Istmo se ha convertido en zona liberada, la zona esta en disputa indigena y entre los capataces de Fitzcarraldo. Por Qeros y Atalaya, o los rios cercanos a Urubamba, Harakmbut y Matsiguenka se encuentran dispersos en el territorio, han sufrido y sufren brutalidades por parte de los caucheros. 
@@ -33,24 +47,6 @@ La muerte de Vaca Diez alza como el mayor pez al magnate Nicolas Suarez, que con
 Indígenas Asháninka, conocidos en estos tiempos como campa, ante la ausencia de su principal explotador, no dudan en rebelarse y formar sus propias comunidades que se empiezan a denominar "Yine", sin dejar de trabajar en la decadente economía cauchera. Grupos indígenas locales cómo los Matsiguenka y los Mashco-Piro se ven en una encrucijada ¿huir o defender sustierras hasta la muerte?
 
 Fitzcarraldo ya no está, es cierto, pero el espíritu de su cruzada aún aterroriza las almas que quedaron aisladas en el Manú.
-
-### Entre el Rio Manu y el Rio Madre de Dios
-
-La historia propuesta transcurre en 14 dias calendario. Esta es la distancia que tomaría el viaje desde Paucartambo hasta Kurtzland. Si el grupo de jugadores decide tomar rutas alternativas considerar las distancias en el mapa para reconsiderar las horas pasadas. 10km/h es la movilidad media de una lancha de rio, sin embargo la ruta por Urubamba es más directa, combinado con un caudal que favorece adquirir velocidad. 
-
-![Mapa del Capitan](https://dcalenzani.lat/IMG/CaptainsMap.jpg "Mapa del Capitan")
-
-Si deciden ir por Urubamba tendrán que primero viajar desde Paucartambo hasta dicha ciudad, donde no encontraran ningún impacto del color. Desde allí, tendrán que tomar el río Urubamba hasta chocar con su afluente, el rio Serjhali, el cuál choca con el estrecho de Fitzcarraldo.
-
-![Mapa del Istmo](https://dcalenzani.lat/IMG/IstmusMap.jpg "Mapa del Istmo")
-
->`El estrecho de Fitzcarraldo es una estructura enorme, rieles de metal que se han comido al bosque y dos astilleros en cada extremo donde los navíos son rápidamente armados y desarmados. El humo del carbon quemado para propulsar a los trenes inunda el ambiente, y como sombras gigantes vagones viajan llenos con los barcos, desarmados en partes perfectas que encajan como rompecabezas navegables.`
-
-Para poder cruzar el estrecho, deberán pagar una fuerte suma de dinero y entregar cualquier arma que hayan intentado llevar. Los caucheros están curtidos en los engaños, y se requiere un engaño con éxito extremo para poder pasar las armas que carguen cada uno (en caso las tuvieran a la mano). 
-
-Al salir estarán directamente en el territorio conocido como Kurtzlandia, obviando gran parte de los conflictos entre grupos presentes en la amazonía y teniendo un menor conocimiento de lo arcano. Asi mismo, Kurtz estará completamente al tanto de su llegada, iniciando el evento de "Desayuno con Kurtz" en la mañana siguiente de su llegada. 
-
-Aunque es cierto que habrán obviado buena parte del camino y retendrán mayor parte de su locura, la revelación de la locura de Charlie les probará un mayor reto, ya que la pérdida de la cabeza de la expedición representa también una suerte de pérdida de rumbo. Podrán entonces pasar más tiempo bajo el guiado de Kurtz, o quizás confiar en Charlie y revertir el avance de Kurtz por contener al color.
 
 
 ### Ganchos posibles
@@ -76,22 +72,22 @@ Entre ellos podemos encontrar a todos aquellos que en algun momento estuvieron b
 Son los que dominan los rios al sur del mapa. No permiten el paso a nadie que no jure lealtad a Vaca Diez, y están en constante tarea de expansión. No es difícil encontrar enfrentamientos entre caucheros e indigenas por el control de la zona.
 
 - Harakbut
-Grupo indígena que habita en las riberas del río Madre de Dios. Están en conflicto con los Matsiguenka por el control del delta de Madre de Dios. Han tratado de mantenerse al margen del caucho, reduciendo cada vez más su control territorial. Esto ha provocado que una buena parte de ellos (cerca de 3000 nativos) hayan muerto por manos de los caucheros. Los Toyeri y Araseri son algunos de los grupos destruidos.
+Grupo indígena que habita en las riberas del río Madre de Dios. Están en conflicto con los Matsiguenka por el control del delta de Madre de Dios. Han tratado de mantenerse al margen del caucho, reduciendo cada vez más su control territorial. Esto ha provocado que una buena parte de ellos (cerca de 3000 nativos) hayan muerto por manos de los caucheros. Los Toyeri y Araseri son algunos de los grupos destruidos. Utilizan pintura roja en el rostro, acompañada de pintura negra en el rostro y el cuerpo, con lineas que se hacen con los mismos dedos.
 
 - Matsiguenka
-Indígenas de las riberas del río Manu. Son un grupo muy numeroso y heterogéneo. Algunos clanes están aliados con los caucheros de bolivia para recibir armas y metales, muy escasos en la amazonía.
+Indígenas de las riberas del río Manu. Son un grupo muy numeroso y heterogéneo. Algunos clanes están aliados con los caucheros de bolivia para recibir armas y metales, muy escasos en la amazonía. Tienen diseños geométricos en las mejillas y frente, privilegiando las lineas, que marcan sus clanes.
 
 - Ashaninka
-Trabajan de manera exclusiva con los caucheros de Fitzcarraldo, son "migrantes", ya que no provienen de esta región y fueron traídos para explotar el caucho
+Trabajan de manera exclusiva con los caucheros de Fitzcarraldo, son "migrantes", ya que no provienen de esta región y fueron traídos para explotar el caucho. Utilizan complejos diseños en el rostro con pintura roja y ropas occidentales. 
 
 - Mashco y Piro
-Grupos indígenas emparetados, su situación de división recién empieza en esta época, al aliarse los Piro con Fitzcarraldo y los Mashco querer mantener su independencia.  
+Grupos indígenas emparetados, su situación de división recién empieza en esta época, al aliarse los Piro con Fitzcarraldo y los Mashco querer mantener su independencia. Se caracterizan por andar semi-desnudos, con taparrabos y pintura roja en el rostro rectangular
 
 ### Personajes del Manu 
 
 _En orden de aparición_
 
-1. Charlie Marlow: Lider de la expedicion "Nellie", un ricachon de la costa peruana con un secreto. En un sueño recibió un mensaje de Nyarlatothep, escrito en los cielos estaba el nombre de Kurtz y grabada en su mente la sensación de que debe asesinarlo.
+1. Charlie Marlow: Lider de la expedicion "Nellie", un ricachon de la costa peruana con un secreto. En un sueño recibió un mensaje de Nyarlatothep, quién le ordena algo tan sencillo como asesinar a Georg Kurtz, un empresario de la selva. Con ello, Charlie salvaría su reputación, adueñandose de las propiedades del capataz, y con ayuda del Yamani controlarían a los indígenas de la zona.
 
 2. Romina Arevalo: Shaman Matsiguenka, criada bajo un padre cauteloso y una madre permisiva, aprendio las artes de brujo desde temprana edad, sabe viajar entre mundos tanto despierta como en sueños y conoce el bosque mejor que nadie, aunque no salga de Boca Manu desde el accidente con sus piernas. Considera que "Wanamei" es un árbol de la perdición, y debe evitarse su surgimiento a toda costa. 
 
@@ -102,6 +98,7 @@ _En orden de aparición_
 5. Georg Kurtz: Cauchero, se encuentra en su campamento en aislamiento desde que las inversiones empezaron a retirar el capital del rio Madre de Dios. Desde hace años tiene tratos que lo favorecen inmensamente, la gran mayoria de ellos fueron ganados con violencia, pero otros en base a diplomacia muy elegante que precisaba de conocer las culturas locales. Quiere "ahogar" a la criatura que cree vive en Paratoari, y está decidido a detonar la entrada que se cuenta ver en la punta de la montaña.
 
 ## El destello de El Color
+
 
 Como se explico, el color estuvo activo durante varios años en la amazonía, pero con la mu
 
@@ -147,6 +144,24 @@ Para manejar el barco se necesita una persona para operar el timón y otra parad
 | 8 | Animales víctimas del color atacan la embarcación |
 | 9 | Sirena o delfin rosado a la distancia |
 | 10 | Ataque de Yakumama |
+
+## Lugares y eventos
+
+La historia propuesta transcurre en 14 dias calendario. Esta es la distancia que tomaría el viaje desde Paucartambo hasta Kurtzlandia, casa-villa ubicada al final del rio Pinquen. Si el grupo de jugadores decide tomar rutas alternativas considerar las distancias en el mapa para reconsiderar las horas pasadas. 10km/h es la movilidad media de una lancha de rio, sin embargo la ruta por Urubamba es más directa, combinado con un caudal que favorece adquirir velocidad.
+
+![Mapa del Capitan](https://dcalenzani.lat/IMG/CaptainsMap.jpg "Mapa del Capitan")
+
+Si deciden ir por Urubamba tendrán que primero viajar desde Paucartambo hasta dicha ciudad, donde no encontraran ningún impacto del color. Desde allí, tendrán que tomar el río Urubamba hasta chocar con su afluente, el rio Serjhali, el cuál choca con el estrecho de Fitzcarraldo.
+
+![Mapa del Istmo](https://dcalenzani.lat/IMG/IstmusMap.jpg "Mapa del Istmo")
+
+>`El estrecho de Fitzcarraldo es una estructura enorme, rieles de metal que se han comido al bosque y dos astilleros en cada extremo donde los navíos son rápidamente armados y desarmados. El humo del carbon quemado para propulsar a los trenes inunda el ambiente, y como sombras gigantes vagones viajan llenos con los barcos, desarmados en partes perfectas que encajan como rompecabezas navegables.`
+
+Para poder cruzar el estrecho, deberán pagar una fuerte suma de dinero y entregar cualquier arma que hayan intentado llevar. Los caucheros están curtidos en los engaños, y se requiere un engaño con éxito extremo para poder pasar las armas que carguen cada uno (en caso las tuvieran a la mano). 
+
+Al salir estarán directamente en el territorio conocido como Kurtzlandia, obviando gran parte de los conflictos entre grupos presentes en la amazonía y teniendo un menor conocimiento de lo arcano. Asi mismo, Kurtz estará completamente al tanto de su llegada, iniciando el evento de "Desayuno con Kurtz" en la mañana siguiente de su llegada. 
+
+Aunque es cierto que habrán obviado buena parte del camino y retendrán mayor parte de su locura, la revelación de la locura de Charlie les probará un mayor reto, ya que la pérdida de la cabeza de la expedición representa también una suerte de pérdida de rumbo. Podrán entonces pasar más tiempo bajo el guiado de Kurtz, o quizás confiar en Charlie y revertir el avance de Kurtz por contener al color.
 
 ## Paucartambo y la salida hacia la selva
 
@@ -195,7 +210,7 @@ El hospedaje es un modesto hotel local dirigido por el mestizo clase media Carlo
 
 A las 7pm se produce el primer destello del color. Para esta hora los investigadores no deberían estar en Paucartambo, asi mismo es imposible que hayan llegado a Atalaya para este horario, por lo que planteamos 2 situaciones posibles que ponen en peligro a nuestros jugadores al enfrentarse al color por primera vez.
 
-##### Vía Terrestre Paucartambo - Atalaya (Camioneta)
+##### Vía Terrestre Paucartambo - Atalaya
 
 El destello del color provoca la primera dificultad. Quien conduce la camioneta se ve claramente distraido por la afeccion conduccion, por lo que debera realizar una tirada de conduccion. Podra lanzar esta tirada con ventaja si logra superar la tiradad de Cordura que implica el destello. La ruta hacia Atalaya es agreste, y en el monte se encuentran 1 puma que los acecha.
 
@@ -219,24 +234,22 @@ Charly estará guardando su carpa y sus cosas desde temprano. Si nuestros invest
 
 Si los investigadores preguntan por visitar al brujo, Charly afirma que prefiere no acompañarlos, sabe que hay otro puerto algo más lejos donde puede darles el encuentro si deciden visitar la cabaña, y les señala en un mapa la ubicación y la ubicación del puerto.
 
-## El Curandero de Atalaya
+## El curandero y los refugiados en Atalaya.
 
-El curandero de Atalaya es el sujeto con el que la pareja llevo a su perro la noche anterior para que fuese curado. Es conocido por Charly, aunque el nunca ha ido a su cabaña (las leyendas cuentan que algunos no regresan), quien puede confirmar que es un brujo "verdadero". Llegar a la cabaña del brujo es bastante fácil, desde afuera es una choza regular sin ningún tipo de cartel o seña. Desde la puerta se puede percibir con bastante fuerza el olor de incienso, palo santo y algo que se cocina. El humo impregna todo el ambiente y los investigadores no pueden ver más que las sombras de los objetos. Pedimos una tirada de habilidad para identificar las cosas dentro de la choza. 
+El curandero de Atalaya es un brujo anciano y reclusivo. Extrae su poder del mundo de los sueños, en conexión con el dios Nyarlatothep y sus heraldos. Llegar a la cabaña del brujo es bastante fácil se tienen que caminar unos 15 minutos desde Atalaya, siguiendo el camino del nor-este. Desde afuera es una choza regular sin ningún tipo de cartel o seña. Desde la puerta se puede percibir con bastante fuerza el olor de incienso, palo santo y algo que se cocina. El humo impregna todo el ambiente y los investigadores no pueden ver más que las sombras de los objetos. Al entrar a la cabaña, se solicita una tirada de POD a los jugadores, los que fracasen están condenados a observar aterrados la sombra del curandero, ignorando el resto de la cabaña.
 
-Un éxito permite identificar al curandero, un loro, un mono y una jaula con ronsocos detrás de él. Una tirada con un éxito sobre el nivel difícil permite visualizar jarrones a los lados de vidrio y cerámica, huesos y una salida al lado de los ronsocos.
+Revisar la cabaña debe ser realizado de reojo, pues el curandero estará atento y cuestionara todos los movimientos extraños. Al lado opuesto de la puerta de entrada, escondida entre jarrones y redes, hay una jaula con ronsocos. Ver de cerca o con atención la jaula mostrara alrededor de su perímetro restos de sangre y huesos, indicando agresividad y una dieta carnivora.
 
-Lo que los investigadores no saben es que el brujo es un aliado del color desde hace muchísimo tiempo, y está coludido con Kurtz en la búsqueda por el poder. Aunque ni Kurtz ni el brujo confían el uno del otro, se respetan lo suficiente para tener una alianza, y el brujo debe asegurar carne fresca para el sacrificio al color insaciable. 
-
-El brujo ya ha perdido completamente la cordura producto de sus prolongados contactos con el antiguo color, pero mantiene una buena fachada. Se muestra amigable con los forasteros, si es que nuestros investigadores analizan la cabaña de antemano el brujo los invitará a sentarse frente a él y preguntarle directamente. Adivinará que los viajeros se encuentran rumbo a Boca Manu y dará cómo información gratuita la situación de las agresiones y la locura de los caucheros, la pérdida del negocio del caucho por nuevas plantaciones. Su objetivo es desorientar a los investigadores y acercarlos hacia Kurtzland, o mejor aún llevarlos directamente al color (ubicado en las pirámides de Paratoari).
+El brujo ya ha perdido completamente la cordura producto de sus prolongados contactos con el antiguo color, pero mantiene una buena fachada. Se muestra amigable con los forasteros, si es que nuestros investigadores analizan la cabaña de antemano el brujo los invitará a sentarse frente a él y preguntarle directamente. Adivinará que los viajeros se encuentran rumbo a Kurtz y dará cómo información gratuita la situación de las agresiones y la locura de los caucheros, la pérdida del negocio del caucho por nuevas plantaciones. Su objetivo es desorientar a los investigadores y acercarlos hacia Kurtzland, o mejor aún llevarlos directamente al color (ubicado en las pirámides de Paratoari).
 
 El brujo conoce bastante sobre el Cristo de Colores (El color caido del espacio)
 
-_En Paucartambo lo conocen como el Cristo de Colores, dicen que llegó hace mucho pero no saben cuanto. Yo no me había olvidado de él, es un Dios antes de Cristo, nos ha protegido mucho tiempo y tiene un poder infinito. Cayó desde el cielo y construímos a su alrededor, puede sanar la carne y tiene poder sobre la vida, tanto como da puede quitar. Estuvo dormido mucho tiempo, nos olvidamos de él, pero ahora es fuerte de nuevo y nos vuelve a proteger._
+> `En Paucartambo lo conocen como el Cristo de Colores, dicen que llegó hace mucho pero no saben cuanto. Yo no me había olvidado de él, es un Dios antes de Cristo, nos ha protegido mucho tiempo y tiene un poder infinito. Cayó desde el cielo y construímos a su alrededor, puede sanar la carne y tiene poder sobre la vida, tanto como da puede quitar. Estuvo dormido mucho tiempo, nos olvidamos de él, pero ahora es fuerte de nuevo y nos vuelve a proteger.`
 
 Si le preguntamos por Kurtz nos dirá
 
 - Locación exacta en un mapa
-- Pedido reciente de rescate contra los ataques de los nativos de Boca Manu
+- Agresividad de los nativos de Boca Manu contra cualquier cauchero
 - Ruta alternativa para llegar a Kurtzland
 
 Si le preguntamos por el Padre Andrés
@@ -247,10 +260,6 @@ Por otra parte, si le preguntamos por cómo llegar a Boca Manu
 
 - Recomendará tener cuidado, especialmente con la mujer brujo que vive allá desde hace unos meses.
 - Avisará que lo mejor es pasar poco tiempo en Boca Manu y salir hacia Kurtzland
-
-# Ataque nativo
-
-Durante el transcurso de la ruta en el río existe la posibilidad de que los investigadores sean atacados desde las orillas por habitantes nativos del valle del Manu. Ellos tienen flechas y lanzas, pero tienen la fragilidad de un humano regular. Ninguno de ellos está realmente afectado por el color como para sobrevivir sobrenaturalmente.
 
 ## Shintuya y el atajo
 
@@ -279,8 +288,6 @@ Por los ataques constantes del color, la mayoria de personas se encuentran escon
 Todos los habitantes de la mision saben de las apariciones del color y de los cambios de las personas que van hacia la casa Kurtz. Las opiniones son divididas, ya que algunos creen que las personas se ven mas "ordenadas", pero a otros les preocupa el cambio en su piel y sus miradas perdidas.  Durante la noche, aquellos pocos pobladores Yine afectados por el color salen de sus casas a recibir la radiacion del ente intergalactico caido del cielo. 
 
 ## El corazon de Kurtzlandia
-
-
 
 ### El encuentro con Kurtz
 
