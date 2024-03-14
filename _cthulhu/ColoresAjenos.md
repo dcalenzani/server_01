@@ -48,7 +48,6 @@ Indígenas Asháninka, conocidos en estos tiempos como campa, ante la ausencia d
 
 Fitzcarraldo ya no está, es cierto, pero el espíritu de su cruzada aún aterroriza las almas que quedaron aisladas en el Manú.
 
-
 ### Ganchos posibles
 
 En el corazón del conflicto, un mesías se alza. El nombre de Kurtz resuena desde Ucayali hasta Urubamba, uno de los capataces más íntimos del barón mítico ha logrado integrarse a la vida amazónica de tal forma que, al menos visto desde afuera, no se le percibe precisamente como un explotador. Los pocos campas que vuelven al cerro de la sal lo describen cómo alguién "encantador" y al mismo tiempo "fuerte".
@@ -87,11 +86,11 @@ Grupos indígenas emparetados, su situación de división recién empieza en est
 
 _En orden de aparición_
 
-1. Charlie Marlow: Lider de la expedicion "Nellie", un ricachon de la costa peruana con un secreto. En un sueño recibió un mensaje de Nyarlatothep, quién le ordena algo tan sencillo como asesinar a Georg Kurtz, un empresario de la selva. Con ello, Charlie salvaría su reputación, adueñandose de las propiedades del capataz, y con ayuda del Yamani controlarían a los indígenas de la zona.
+1. Charlie Marlow: Lider de la expedicion "Nellie", un ricachon de la costa peruana con un secreto. Desde jóven tuvo parálisis de sueño, una maldición que pronto revelaría transformarse en su poder más importante, cuando esta innamovilidad se convirtió en la capacidad de tener sueños lúcidos. Así, poco a poco derivó más profundo en la ensoñación, hasta encontrar las puertas de las tierras del sueño. Dentro del sueño siguió a una figura de otorongo quién lo llamaba. Yamani Piro le hablaba y empezaría una relación de maestro-alumno, donde el extremadamente joven Charlie aprendería hechizos, rituales y cortesías. Ahora, de adulto, Charlie ha recibido un mensaje de su maestro: "Reemplaza a Kurtz en cuerpo y sangre, remuevelo para tomar todo lo que es suyo y gana el reconocimiento que siempre has merecido, esta es una oportunidad de nuestro señor".
 
 2. Romina Arevalo: Shaman Matsiguenka, criada bajo un padre cauteloso y una madre permisiva, aprendio las artes de brujo desde temprana edad, sabe viajar entre mundos tanto despierta como en sueños y conoce el bosque mejor que nadie, aunque no salga de Boca Manu desde el accidente con sus piernas. Considera que "Wanamei" es un árbol de la perdición, y debe evitarse su surgimiento a toda costa. 
 
-3. Yamani Piro: Shaman que en realidad es de origen Mashco, y ayuda en secreto a los indígenas Harakmbut que sufren desplazamientos por el caucho. Esta obsesionado con revivir a Wanamei, el árbol sagrado Harakmbut, esta visión vino a él en un sueño alucinógeno en su ritual de iniciación.
+3. Yamani Piro: Shaman que en realidad es de origen Mashco, y ayuda en secreto a los indígenas Harakmbut que sufren desplazamientos por el caucho. Esta obsesionado con revivir a Wanamei, el árbol sagrado Harakmbut, esta visión vino a él en un sueño alucinógeno en su ritual de iniciación. 
 
 4. Padre Andrés: Sacerdote Dominico misionado en Boca Manu. Actualmente se encuentra en la aldea Yine antes de llegar a Kurtzlandia. Fue capturado y secuestrado por Kurtz, quién lo introdujo a la locura del color. Actualmente vive sin corazon (en el sentido mas literal, su corazon se encuentra escondido en el sagrario de la capilla), lo que lo mantiene bajo control. En la mision Yine y mediante las eucaristias Andres promueve una vision casi protestante de "crear el cielo en la tierra". Habla sobre como el "Cristo de colores" en realidad existio y puede regresar, si tenemos la suficiente fe y realizamos el trabajo necesario. Aplaude las labores de Kurtz por "limpiar la selva de impurezas" e invita a los asistentes a asistir en Kurtzland con mano de obra. Esto es, claramente, solo un truco del color para quitarles fuerza vital. 
 
@@ -226,14 +225,6 @@ Si la persona llega viva a Atalaya, los señores entregaran a los viajeros hojas
 
 El camino a pie es traicionero, y cualquier accion rapida necesita una tirada de destreza para superar las pisadas en falso. Durante la ruta hay posibilidades de que 1D4 perros molesten a nuestros investigadores. Investigar sus cuerpos mostrara perdida de pelo y piel de un color extraño. Con los retrasos, los personajes llegan a Q'eros por la noche, lo que los obliga a dormir alli, sin embargo, es un lugar seguro para dormir y al dia siguiente pueden recibir provisiones de los ayudantes del Capitan Marlow. Llegar a Atalaya desde Q'eros no toma mas de 1h, en el camino no encuentran problemas.
 
-## Salida a Boca Manu  
-
-El dia 2 se enfoca en llegar de Atalaya a Boca Manu, donde nos han informado por cartas que encontraremos a Klutz. 
-
-Charly estará guardando su carpa y sus cosas desde temprano. Si nuestros investigadores tienen éxito en una tirada de escuchar se despertaran y encontraran a Charly apurado, si fracasan serán despertados por la lluvia y deberán guardar sus cosas rápidamente antes de que se mojen. Si sus cosas quedan mojadas no podran ser usadas hasta que sequen. Charly dice que le gustaria salir de una vez, ya que la ruta hasta Boca Manu tarda 13 horas. La lluvia empieza a las 6 am, por lo que una salida ahora mismo significa llegar a las 7 a Boca Manu. Les informa que a media ruta deberán detenerse para el almuerzo, o que le aseguren una comida en el timonel si desean, pero no hay cocina a bordo.
-
-Si los investigadores preguntan por visitar al brujo, Charly afirma que prefiere no acompañarlos, sabe que hay otro puerto algo más lejos donde puede darles el encuentro si deciden visitar la cabaña, y les señala en un mapa la ubicación y la ubicación del puerto.
-
 ## El curandero y los refugiados en Atalaya.
 
 El curandero de Atalaya es un brujo anciano y reclusivo. Extrae su poder del mundo de los sueños, en conexión con el dios Nyarlatothep y sus heraldos. Llegar a la cabaña del brujo es bastante fácil se tienen que caminar unos 15 minutos desde Atalaya, siguiendo el camino del nor-este. Desde afuera es una choza regular sin ningún tipo de cartel o seña. Desde la puerta se puede percibir con bastante fuerza el olor de incienso, palo santo y algo que se cocina. El humo impregna todo el ambiente y los investigadores no pueden ver más que las sombras de los objetos. Al entrar a la cabaña, se solicita una tirada de POD a los jugadores, los que fracasen están condenados a observar aterrados la sombra del curandero, ignorando el resto de la cabaña.
@@ -261,11 +252,18 @@ Por otra parte, si le preguntamos por cómo llegar a Boca Manu
 - Recomendará tener cuidado, especialmente con la mujer brujo que vive allá desde hace unos meses.
 - Avisará que lo mejor es pasar poco tiempo en Boca Manu y salir hacia Kurtzland
 
-## Shintuya y el atajo
+Notar que Charlie está muy interesado en la información que el brujo pueda dar, y ofrecerá hacer después de la visita un intercambio con él. Los jugadores no lo saben, pero tanto el brujo como Charlie se han reunido previamente en la ensoñación, donde el shamán ha actuado como sacerdote de Nyarlatothep en la iniciación de Charlie.
+
+### Shintuya y el atajo
 
 Shintuya está en cenizas. casi 100m a la redonda de bosques incendiados abren pago al verdadero horror. Detrás de las cenizas y el humo que aún se disipa se encuentran con 3 sombras en forma de x, el contraluz no permite observar con claridad quienes son ni como flotan. Al acercarse ligeramente, se dan cuenta de la macabra técnica por la cuál sus cuerpos se mantienen elevados. Por mano propia o de otras personas han sido atados de las extremidades a cuerdas, las cuales han sido tensadas, en total, desde 6 postes.
 
 Si la curiosidad los empujase a investigar mas de cerca se darán cuenta que estos cuerpos han sido drenados de su sangre, la cual chorrea a pequeños cuencos hechos con cocos.
+
+## Territorio Harakmbut y Mashco
+En los rios cercanos a las pirámides de Paratoari habitan una gran cantidad de indígenas, pero se mantienen últimamente alejados de los ríos por la presencia de los caucheros. Están al tanto de las luces pero no saben mucho más de lo que se observa en los bosques. Algunos tienen restos de animales mutados como trofeos de caza. Es importante notar que los Harakbut presentes no saben del reciente ataque en Shintuya, y reaccionarán negativamente a la noticia (dolor o enojo, dependiendo como la reciban).
+
+Los Mashco tienen un conflicto con el brujo, a quién consideran un traidor (al igual que muchos de los caucheros). Si se les pregunta por Wanamei los indígenas dirán que ese árbol no puede ser Wanamei, porque no se ha visto al pájaro WehWeh, y que no hay nada peor que un falso árbol sagrado. Todos debemos cuidarnos de lo que diga el brujo Yamani, porque él es un traidor y un mentiroso.
 
 ## Boca Manu
 
@@ -275,19 +273,22 @@ Esta mujer es curandera y practica únicamente la magia curativa y defensiva. Au
 
 La mañana siguiente les enseñará a los forasteros cómo usar los huesos (ritual de aparición)
 
+## Rancho Fitzcarraldo
+Una enorme mansión de 2 pisos, construida a la usanza europea. Desde la muerte de Fitzcarraldo, la casa fue tomada por otros caucheros, quienes viven con servidumbre indígena. Kurtz la abandonó hace mucho y una conversación con los presentes muestra que no sale de su territorio desde hace ya mas de 1 año. La casa es un lugar seguro para descansar, pero no para quedarse. Los investigadores pueden encontrar información sobre Kurtz y su relación con el color. Los caucheros saben de las investigaciones para encontrar el origen de las luces y de los hallazgos en las piedras, pero no podrán informar nada sobre el color en sí.
+
 ## La mision Yine
 
 Por los ataques constantes del color, la mayoria de personas se encuentran escondidas en sus hogares. Existe una capilla cerca a las casas construida por el Padre Andres. Actualmente el padre no se encuentra adentro de la capilla, pero dentro se pueden encontrar algunas pistas sobre la naturaleza del sacerdote y Kurtz.
 
 >`La capilla yine es curiosamente alta comparada a otras casas de la localidad, ademas, de manera muy inusual, posee un vitral de casi 2m de alto detras del altar. Este vidrio posee todos los colores del arcoiris en cortes geometricos. Las figuras principales son hexagonos y rombos que asemejan flores locales. El brillo del sol que cruza por estos vidrios llena de una luz muy especial a todas las sillas para los feligreses. Al entrar, el olor a frutas y licor inunda las narices de los presentes, a quienes les marea este primer impacto`
 
-1. En el sagrario se encuentra el corazon latiente del padre Andres. Si este se le devuelve al sacerdote junto con un encantamiento podra regresar a la normalidad.
-2. El vino de la iglesia esta producido con frutas mutantes, producto de la influencia del color. El cuarto trasero de la capilla tiene el espacio de fermentacion y produce el olor 
-3. Dentro de la biblia hay varios separadores de libros. Una tirada de biblioteca o similar revela .
-
-Todos los habitantes de la mision saben de las apariciones del color y de los cambios de las personas que van hacia la casa Kurtz. Las opiniones son divididas, ya que algunos creen que las personas se ven mas "ordenadas", pero a otros les preocupa el cambio en su piel y sus miradas perdidas.  Durante la noche, aquellos pocos pobladores Yine afectados por el color salen de sus casas a recibir la radiacion del ente intergalactico caido del cielo. 
+El padre Andrés se encuentra en su oficina, el salón central está vacío ahora mismo. Dentro de las naves laterales se visualizan algunas andas muy modestas con velas encendidas. Detrás del altar se encuentra el vino que se usa para las eucaristías, una preparación con las frutas disponibles localmente (y si... han usado *esas* frutas). La puerta de la oficina está cerrada. Se puede derribar con una tirada de fuerza, la puerta es bastante fragil. De ser tocada fuertemente (o peor aún, derrumbada), el padre Andrés se acercará enojado a recibir a los visitantes. Aún así, el perdón eclesiástico lo obliga a invitarlos a pasar y escuchar sus malestares. Dentro de la oficina se ven algunos libros en una repisa en la parte de atrás. Una tirada de educación, antropología o historia permitirá descubrir que varios de ellos no pertenecen a la doctrina de la iglesia católica. Una tirada de ocultismo o previa exposición a materiales similares podrá revelar que se trata de libros en realidad prohibidos por la iglesia, debido a su contenido ilusorio y cercano a falsos dioses y profetas, un éxito difícil dirá además que estos dioses proveían visiones a través de sueños.
 
 ## El corazon de Kurtzlandia
+
+Kurtzland es un calco y copia del Rancho Fitzcarraldo, con la única modificación de tener un pequeño cementerio en el jardín trasero. Al llegar a la casa, los investigadores son recibidos por un jóven indígena de aspecto muy poco memorable, él se presenta como el mayordomo del señor y les ofrece pasar. 
+
+El día de hoy Kurtz ha salido a trabajar en el bosque, pero los invitados son libres de quedarse.
 
 ### El encuentro con Kurtz
 
