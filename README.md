@@ -12,9 +12,9 @@ Using Vercel to host the database and a github repo (running a Vercel Hobby acco
 ## INSTRUCTIONS
 
 Download the project through the link provided in the GitHub directory (where you are now). Go to your command line of prefference and navigate to the nextJs directory. This would be something like 
-    cd ~/path/to/the/directory
+`cd ~/path/to/the/directory`
 After this, run
-    npm install
+`npm install`
 this will install all the dependencies for the project. Now try using
-    npx next dev
+`npx next dev`
 You'll see that the localhost starts working in port 3000.
