@@ -11,7 +11,9 @@ Using Vercel to host the database and a github repo (running a Vercel Hobby acco
 
 ## INSTRUCTIONS
 
-```git clone https://github.com/dcalenzani/server_01.git
+To run this project, you need to have Node.js installed. Then, run the following commands:
+```
+git clone https://github.com/dcalenzani/server_01.git
 cd server_01
 npm install
 npx next dev
