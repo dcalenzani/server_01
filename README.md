@@ -2,6 +2,14 @@
 
 Using Vercel to host the database and a github repo (running a Vercel Hobby account) for the front end, we can create a static page that is rendered on the cloud.
 
+
+<!-- vim-markdown-toc GFM -->
+
+* [FEATURES](#features)
+* [INSTRUCTIONS](#instructions)
+
+<!-- vim-markdown-toc -->
+
 ## FEATURES
 - Markdown rendering
 - Email contact form
