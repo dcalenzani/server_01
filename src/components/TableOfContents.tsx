@@ -99,7 +99,7 @@ const TableOfContents = () => {
           <a
             href={`#${item.heading.slug}`}
             className={`w-full h-[4rem] pl-4 flex items-center dark:text-zinc-100 border border-zinc-800 dark:border-zinc-200 hover:border-neutral-700 hover:bg-zinc-400/50 ${item.heading.slug === activeHeading ? 'dark:bg-zinc-950 bg-white' : ''}`}
-            onClick={() => setActiveHeading(item.heading.slug)} // Add this line
+            onClick={() => setActiveHeading(item.heading.slug)} 
           >
             {item.heading.text}
           </a>
