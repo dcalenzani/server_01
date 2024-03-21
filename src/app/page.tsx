@@ -26,7 +26,7 @@ export default function Home() {
           <DarkModeToggle></DarkModeToggle>
         </div>
 
-        <div className="absolute z-1 h-screen mb-7 place-items-center rounded-full">
+        <div className="absolute z-1 h-screen w-screen mb-7 justify-center place-items-center">
           <img
             className="object-none filter grayscale h-full dark:invert-0"
             src="/banner.jpg"

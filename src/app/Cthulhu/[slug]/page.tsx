@@ -9,7 +9,7 @@ function Post({ params }: { params: any }) {
   const { content, data } = getPostContent(params.slug)
 
   return (
-    <div className="h-screen">
+    <div className="h-screen w-screen">
       <div className="w-full h-full bg-zinc-100 dark:bg-zinc-900">
         <BlogPage markdownContent={content} />
         </div>
