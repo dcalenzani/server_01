@@ -148,7 +148,7 @@ const TableOfContents = () => {
     <DarkModeToggle/>
     <div className={`fixed flex flex-col font-open-dislexic rounded-md h-full max-h-full w-full overflow-y-auto top-0 right-0 text-xl text-left pt-4 space-y-4 pb-[6rem] bg-gray-200 text-zinc-950 dark:text-gray-200 dark:bg-zinc-800 z-20 md:flex md:flex-col md:w-1/4 ${isMenuOpen ? 'block' : 'hidden'}`}>
       <div className="flex flex-row space-x-2 mx-2 text-center w-full justify-evenly ">
-        <a href="/" className="w-full h-full py-2 border dark:border-zinc-200 border-zinc-800 hover:border-neutral-700 hover:bg-neutral-400/30">
+        <a href="../" className="w-full h-full py-2 border dark:border-zinc-200 border-zinc-800 hover:border-neutral-700 hover:bg-neutral-400/30">
           &#8962; Home
         </a>
         <a href="/projects" className="w-full h-full py-2 border dark:border-zinc-200 border-zinc-800 hover:border-neutral-700 hover:bg-neutral-400/30">
