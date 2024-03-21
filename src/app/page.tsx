@@ -13,7 +13,7 @@ export default function Home() {
 
   return (
     <>
-      <main className="flex bg-zinc-300 dark:bg-zinc-950 h-screen flex-col items-center justify-between text-inherit dark:text-slate-50 p-0">
+      <main className="fixed flex bg-zinc-300 dark:bg-zinc-950 h-screen w-screen flex-col items-center justify-between text-inherit dark:text-slate-50 p-0">
           
           <p className="absolute px-10 flex top-0 w-full justify-center dark:border bg-gradient-to-b from-zinc-200 pb-6 pt-8 backdrop-blur-md dark:border-neutral-800 dark:bg-zinc-800/30 dark:from-inherit z-10 md:justify-end md:w-auto md:left-2 md:h-auto md:rounded-xl md:p-4 md:top-24">
             Check Repo:&nbsp;

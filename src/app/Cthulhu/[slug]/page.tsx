@@ -1,5 +1,6 @@
 import { getListOfPosts, getPostContent } from "@/app/helpers/postCthulhians"
 import BlogPage from '@/components/BlogPage'
+import TableOfContents from "@/components/TableOfContents"
 
 export const generateStaticParams = async () => {
   const posts = getListOfPosts()
@@ -9,10 +10,11 @@ function Post({ params }: { params: any }) {
   const { content, data } = getPostContent(params.slug)
 
   return (
-    <div className="h-screen w-screen">
-      <div className="w-full h-full bg-zinc-100 dark:bg-zinc-900">
+    <div className="">
+      <div className="h-screen w-screen bg-zinc-100 dark:bg-zinc-900">
         <BlogPage markdownContent={content} />
-        </div>
+        <TableOfContents/>
+      </div>
     </div>
   )
 }

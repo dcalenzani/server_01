@@ -12,9 +12,8 @@ const HomePage = () => {
 
   return (
     <main className="">
-      <div className="flex flex-col w-screen dark:text-slate-50 md:mt-10 items-center justify-center">
+      <div className="flex flex-col w-screen dark:text-slate-50 md:mt-10 items-center justify-center overflow-y-auto">
         <Hamburguer/>
-        
         <div className="relative flex flex-col py-10 h-full w-full justify-center items-center invert dark:invert-0" 
           style={{ 
           backgroundSize: 'cover', 
