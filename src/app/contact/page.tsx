@@ -17,7 +17,7 @@ export default function ContactForm() {
       from_name: fromName,
       email: email,
       message: message
-    }, process.env.REACT_APP_EMAILJS_SERVICE_ID)
+    }, process.env.NEXT_PUBLIC_EMAILJS_SERVICE_ID)
     .then((response) => {
        console.log('SUCCESS!', response.status, response.text);
        setFromName('');

@@ -1,6 +1,6 @@
-import { getListOfPosts, getPostContent } from "@/app/helpers/postCthulhians"
+import { getListOfPosts, getPostContent } from '@/app/helpers/postCthulhians'
 import BlogPage from '@/components/BlogPage'
-import TableOfContents from "@/components/TableOfContents"
+import TableOfContents from '@/components/TableOfContents'
 
 export const generateStaticParams = async () => {
   const posts = getListOfPosts()
