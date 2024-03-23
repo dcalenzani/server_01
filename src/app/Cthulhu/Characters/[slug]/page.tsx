@@ -1,5 +1,6 @@
 import { getListOfPosts, getPostContent } from "@/app/helpers/postCharacters"
 import BlogPage from '@/components/BlogPage'
+import DarkModeToggle from "@/components/DarkToggle"
 
 export const generateStaticParams = async () => {
   const posts = getListOfPosts()
@@ -10,6 +11,7 @@ function Post({ params }: { params: any }) {
 
   return (
     <div className="h-screen">
+      <DarkModeToggle/>
       <div className="w-full h-full bg-zinc-100 dark:bg-zinc-900">
         <BlogPage markdownContent={content} />
         </div>
